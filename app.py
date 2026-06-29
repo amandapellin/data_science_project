@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
@@ -9,9 +10,9 @@ import urllib.request
 # ==========================================
 # 1. CONFIGURAÇÃO E DADOS
 # ==========================================
-st.set_page_config(page_title="Dashboard Estratégico", layout="wide")
+st.set_page_config(page_title="Aquecimento de Água — Painel de Decisão", layout="wide")
 
-# Paleta de cores exata do seu guia
+# Paleta de cores por segmento (consistente com os notebooks/guia)
 cores_segmento = {
     'Prêmio premium': '#663399',  # Roxo
     'Vitrine solar': '#FF8C00',   # Laranja
@@ -22,6 +23,8 @@ cores_segmento = {
 MESES = {1: 'Jan', 2: 'Fev', 3: 'Mar', 4: 'Abr', 5: 'Mai', 6: 'Jun',
          7: 'Jul', 8: 'Ago', 9: 'Set', 10: 'Out', 11: 'Nov', 12: 'Dez'}
 ORDEM_MESES = list(MESES.values())
+BASE_HDD = 20.0  # temperatura-base dos graus-dia de aquecimento (escolha de sensibilidade)
+
 
 @st.cache_data
 def carregar_dados():
@@ -30,136 +33,174 @@ def carregar_dados():
     df_trends = pd.read_csv(f'{caminho_base}gtrends_serie_temporal.csv')
     df_pdfs = pd.read_csv(f'{caminho_base}pdfs_frequencia_termos.csv')
 
-    # (#2) eixo temporal de verdade na série de buscas
     df_trends['data'] = pd.to_datetime(df_trends['data'])
+    # Graus-dia de aquecimento por linha UF×ano×mês (proxy físico da necessidade de aquecer)
+    df_principal['graus_dia'] = np.clip(BASE_HDD - df_principal['temp_media_mensal'], 0, None) * df_principal['n_dias']
     return df_principal, df_trends, df_pdfs
+
 
 df, df_trends, df_pdfs = carregar_dados()
 
+
 @st.cache_data
 def carregar_geojson_uf():
-    # GeoJSON das UFs do Brasil; a chave de junção é properties.SIGLA (ex.: 'SP')
+    # GeoJSON das UFs do Brasil; chave de junção = properties.SIGLA (ex.: 'SP')
     url = "https://raw.githubusercontent.com/giuliano-macedo/geodata-br-states/main/geojson/br_states.json"
     with urllib.request.urlopen(url) as r:
         return json.load(r)
 
+
 geojson_uf = carregar_geojson_uf()
+
+
+def idx100(s):
+    """Normaliza uma série para média = 100 (compara formato, não magnitude)."""
+    return 100 * s / s.mean()
+
 
 # ==========================================
 # 2. BARRA LATERAL (MENU E FILTROS)
 # ==========================================
-st.sidebar.title("Navegação")
-pagina = st.sidebar.radio("Ir para a página:",
-    ["1. Visão Regional", "2. Aptidão por Produto", "3. Sazonalidade", "4. Consumidor e Discurso"]
-)
+st.sidebar.title("Painel de Decisão")
+st.sidebar.caption("Aquecimento de água no Brasil — onde, com quê e quando vender.")
+
+pagina = st.sidebar.radio("Página:", [
+    "1. A decisão (onde entrar)",
+    "2. Qual produto (fit × renda)",
+    "3. Quanta demanda (graus-dia)",
+    "4. Quando vender (Trends)",
+])
 
 st.sidebar.markdown("---")
-st.sidebar.header("Filtros Globais (Páginas 1 a 3)")
-
+st.sidebar.header("Filtros (páginas 1 a 3)")
 regioes_selecionadas = st.sidebar.multiselect("Região", options=sorted(df['regiao'].unique()), default=sorted(df['regiao'].unique()))
 segmentos_selecionados = st.sidebar.multiselect("Segmento", options=list(cores_segmento.keys()), default=list(cores_segmento.keys()))
 
 df_filtrado = df[(df['regiao'].isin(regioes_selecionadas)) & (df['segmento'].isin(segmentos_selecionados))]
 
-# (#1) guarda contra seleção vazia — evita gráficos/KPIs quebrados
-if df_filtrado.empty and pagina != "4. Consumidor e Discurso":
+# Guarda contra seleção vazia (a página 4 é nacional e não depende desses filtros)
+if df_filtrado.empty and not pagina.startswith("4"):
     st.warning("Nenhum dado para os filtros selecionados. Ajuste a Região/Segmento na barra lateral.")
     st.stop()
 
-# Grão UF para as páginas 1 e 2 (colunas por UF são constantes nas linhas mensais)
+# Grão UF (colunas por UF são constantes nas linhas mensais)
 df_uf = df_filtrado.drop_duplicates(subset=['uf'])
 
 # ==========================================
-# 3. PÁGINAS DO DASHBOARD
+# 3. PÁGINAS — uma decisão por página
 # ==========================================
 
-if pagina == "1. Visão Regional":
-    st.title("📍 Visão Regional (Priorização)")
+if pagina.startswith("1"):
+    st.title("📍 A decisão: onde entrar primeiro?")
+    st.markdown("**Não existe uma lista única de melhores UFs — existem dois mercados opostos.** "
+                "O Nordeste é onde o produto rende mais (sol); o Sul/Sudeste é onde há frio, renda e necessidade.")
 
-    st.subheader("Mapa de Priorização por Segmento")
+    c1, c2, c3 = st.columns(3)
+    c1.metric("UFs em análise", len(df_uf))
+    c2.metric("Oportunidade média", f"{df_uf['oportunidade_conversao'].mean():.1f}")
+    c3.metric("Renda média p/c", f"R$ {df_uf['rendimento_medio_pc'].mean():,.0f}")
+
     fig_mapa = px.choropleth(
         df_uf, geojson=geojson_uf, locations='uf', featureidkey='properties.SIGLA',
-        color='segmento', color_discrete_map=cores_segmento,
-        hover_name='uf_nome',
-        hover_data={'uf': False, 'oportunidade_conversao': ':.1f', 'aptidao_solar': ':.2f'},
-        title="Segmento estratégico de cada UF"
+        color='segmento', color_discrete_map=cores_segmento, hover_name='uf_nome',
+        hover_data={'uf': False, 'oportunidade_conversao': ':.1f', 'aptidao_solar': ':.2f',
+                    'rendimento_medio_pc': ':,.0f'},
+        title="Segmento estratégico de cada UF",
     )
     fig_mapa.update_geos(fitbounds="locations", visible=False)
     fig_mapa.update_layout(margin={"r": 0, "t": 40, "l": 0, "b": 0})
     st.plotly_chart(fig_mapa, width='stretch')
 
-    col1, col2 = st.columns(2)
-    col1.metric("Quantidade de UFs", len(df_uf))
-    col2.metric("Oportunidade Média de Conversão", f"{df_uf['oportunidade_conversao'].mean():.1f}")
+    st.success("**Recomendação:** trate o Nordeste (Vitrine solar) e o Sul/Sudeste (Prêmio premium) como dois "
+               "go-to-markets distintos, com produtos e discursos próprios — detalhe nas páginas 2 a 4.")
 
-    st.subheader("Oportunidade de Conversão por UF")
-    df_uf_sorted = df_uf.sort_values(by='oportunidade_conversao', ascending=True)
-    fig = px.bar(df_uf_sorted, x='oportunidade_conversao', y='uf', orientation='h',
-                 color='segmento', color_discrete_map=cores_segmento,
-                 title="Estados com maior potencial (Destaque Sul/Sudeste)")
+elif pagina.startswith("2"):
+    st.title("☀️ Qual produto: o fit técnico e a renda estão invertidos")
+    st.markdown("Eixo X = capacidade de pagar (renda); eixo Y = aptidão solar. "
+                "As linhas marcam as medianas. O canto **superior-direito** (apto **e** paga) é quase vazio — esse é o problema.")
+
+    mx, my = df_uf['rendimento_medio_pc'].median(), df_uf['aptidao_solar'].median()
+    fig = px.scatter(df_uf, x='rendimento_medio_pc', y='aptidao_solar',
+                     size='oportunidade_conversao', color='segmento', text='uf',
+                     color_discrete_map=cores_segmento, hover_name='uf_nome',
+                     title="Mapa estratégico: quem paga × onde o solar rende")
+    fig.update_traces(textposition='top center')
+    fig.add_vline(x=mx, line_dash="dash", line_color="gray")
+    fig.add_hline(y=my, line_dash="dash", line_color="gray")
+    fig.add_annotation(x=df_uf['rendimento_medio_pc'].max(), y=df_uf['aptidao_solar'].min(),
+                       text="PAGA, sol fraco (S/SE)<br>→ premium: conforto/backup", showarrow=False,
+                       xanchor="right", yanchor="bottom", font=dict(size=11), bgcolor="rgba(245,245,245,0.8)")
+    fig.add_annotation(x=df_uf['rendimento_medio_pc'].min(), y=df_uf['aptidao_solar'].max(),
+                       text="APTO, renda baixa (NE)<br>→ solar c/ financiamento", showarrow=False,
+                       xanchor="left", yanchor="top", font=dict(size=11), bgcolor="rgba(245,245,245,0.8)")
+    fig.update_layout(xaxis_title="Renda média per capita (R$)", yaxis_title="Aptidão solar")
     st.plotly_chart(fig, width='stretch')
 
-elif pagina == "2. Aptidão por Produto":
-    st.title("☀️ Aptidão por Produto (Solar vs. Bomba de Calor)")
+    corr = df_uf[['oportunidade_conversao', 'cop_medio_anual', 'aptidao_solar']].corr()['oportunidade_conversao']
+    st.caption(f"Inversão: oportunidade × COP = {corr['cop_medio_anual']:+.2f} · "
+               f"oportunidade × aptidão solar = {corr['aptidao_solar']:+.2f} "
+               "→ a 'oportunidade' cai onde os produtos rendem mais.")
 
-    fig_scatter = px.scatter(df_uf, x='aptidao_solar', y='cop_medio_anual',
-                             size='oportunidade_conversao', color='segmento',
-                             hover_name='uf', text='uf', color_discrete_map=cores_segmento,
-                             title="Mapa de Priorização Comercial")
-    fig_scatter.update_traces(textposition='top center')
-    st.plotly_chart(fig_scatter, width='stretch')
+    st.success("**Recomendação:** solar de baixo custo **com financiamento** no Nordeste (gargalo é preço, não desejo); "
+               "substituição premium do chuveiro / solar com apoio elétrico no Sul/Sudeste (vender conforto e custo de operação).")
 
-    col1, col2 = st.columns(2)
-    with col1:
-        fig_solar = px.bar(df_uf.sort_values(by='aptidao_solar', ascending=False).head(10),
-                           x='uf', y='aptidao_solar', color='segmento', color_discrete_map=cores_segmento,
-                           title="Top 10 UFs - Venda de Aquecedor Solar")
-        st.plotly_chart(fig_solar, width='stretch')
-    with col2:
-        fig_bc = px.bar(df_uf.sort_values(by='cop_medio_anual', ascending=False).head(10),
-                        x='uf', y='cop_medio_anual', color='segmento', color_discrete_map=cores_segmento,
-                        title="Top 10 UFs - Eficiência Bomba de Calor (COP)")
-        st.plotly_chart(fig_bc, width='stretch')
+elif pagina.startswith("3"):
+    st.title("❄️ Quanta demanda — e por que o consumo elétrico engana")
+    st.markdown("O consumo elétrico total **pica no verão** (ar-condicionado). A necessidade de aquecer água, "
+                "medida por **graus-dia**, pica no inverno e se concentra no Sul.")
 
-elif pagina == "3. Sazonalidade":
-    st.title("❄️ Sazonalidade: Clima × Consumo")
+    # Necessidade de aquecimento por UF (graus-dia anuais médios)
+    hdd_uf = (df_filtrado.groupby(['uf', 'ano'])['graus_dia'].sum()
+              .groupby('uf').mean().sort_values(ascending=False).reset_index())
+    fig_hdd = px.bar(hdd_uf.head(12), x='uf', y='graus_dia',
+                     title=f"Graus-dia de aquecimento por UF (base {BASE_HDD:.0f}°C, média anual) — top 12")
+    fig_hdd.update_layout(yaxis_title="graus-dia · ano", xaxis_title="")
+    st.plotly_chart(fig_hdd, width='stretch')
 
-    # (#5) deixa escolher entre volume total (Soma) e padrão (Média)
-    agg = st.radio("Métrica de consumo", ["Soma", "Média"], horizontal=True)
-    func = 'sum' if agg == "Soma" else 'mean'
+    # Os três proxies discordam (formato sazonal normalizado)
+    consumo_m = idx100(df_filtrado.groupby('mes')['consumo_residencial_mwh'].sum())
+    hdd_m = idx100(df_filtrado.groupby('mes')['graus_dia'].mean())
+    trd = df_trends[df_trends['termo'] == 'aquecedor solar'].groupby('mes')['indice_busca'].mean()
+    trd_m = idx100(trd)
 
-    df_mensal = df_filtrado.groupby('mes').agg(
-        consumo=('consumo_residencial_mwh', func),
-        temp=('temp_media_mensal', 'mean')
-    ).reset_index()
-    df_mensal['mes_nome'] = df_mensal['mes'].map(MESES)  # (#4) meses por nome
-
-    fig = make_subplots(specs=[[{"secondary_y": True}]])
-    fig.add_trace(go.Scatter(x=df_mensal['mes_nome'], y=df_mensal['consumo'],
-                             name=f"Consumo (MWh) - {agg}", mode='lines+markers'), secondary_y=False)
-    fig.add_trace(go.Scatter(x=df_mensal['mes_nome'], y=df_mensal['temp'],
-                             name="Temperatura Média (°C)", mode='lines+markers'), secondary_y=True)
-    fig.update_layout(title_text=f"Consumo residencial ({agg}) vs Temperatura ao longo do ano")
-    fig.update_xaxes(title_text="Mês", categoryorder='array', categoryarray=ORDEM_MESES)
-    fig.update_yaxes(title_text="Consumo (MWh)", secondary_y=False)
-    fig.update_yaxes(title_text="Temperatura (°C)", secondary_y=True)
+    fig = go.Figure()
+    fig.add_trace(go.Scatter(x=[MESES[m] for m in consumo_m.index], y=consumo_m.values, mode='lines+markers', name="Consumo total (MWh)"))
+    fig.add_trace(go.Scatter(x=[MESES[m] for m in hdd_m.index], y=hdd_m.values, mode='lines+markers', name="Necessidade (graus-dia)"))
+    fig.add_trace(go.Scatter(x=[MESES[m] for m in trd_m.index], y=trd_m.values, mode='lines+markers', name="Busca 'aquecedor solar'"))
+    fig.update_xaxes(categoryorder='array', categoryarray=ORDEM_MESES, title_text="Mês")
+    fig.update_yaxes(title_text="Índice (média do ano = 100)")
+    fig.update_layout(title_text="Os proxies discordam: consumo pica no verão; demanda de aquecimento, no inverno")
     st.plotly_chart(fig, width='stretch')
-    st.info("Leitura: o consumo cai no inverno (jun–ago), acompanhando a queda de temperatura.")
 
-elif pagina == "4. Consumidor e Discurso":
-    st.title("🔍 O Consumidor e o Discurso Institucional")
+    st.success("**Recomendação:** pare de usar MWh total como sinal de aquecimento — ele segue o ar-condicionado. "
+               "Use graus-dia: a necessidade de aquecimento de água é dominada por **RS, SC e PR**.")
 
-    st.subheader("Tendência de Buscas (Google Trends)")
-    # (#7) escolher quais termos comparar
+else:  # página 4
+    st.title("🔍 Quando vender: o consumidor e o discurso do setor")
+    st.markdown("O interesse de busca por aquecimento **pica no inverno (mai–jul)** — esse é o calendário comercial. "
+                "_(Esta página é nacional; não depende dos filtros de região/segmento.)_")
+
+    st.subheader("Sazonalidade do interesse (Google Trends)")
+    saz = df_trends.groupby(['mes', 'termo'])['indice_busca'].mean().reset_index()
+    saz['mes_nome'] = saz['mes'].map(MESES)
+    fig_saz = px.line(saz, x='mes_nome', y='indice_busca', color='termo', markers=True,
+                      title="Índice médio de busca por mês")
+    fig_saz.update_xaxes(categoryorder='array', categoryarray=ORDEM_MESES, title_text="Mês")
+    fig_saz.add_vrect(x0=3.5, x1=6.5, fillcolor="gray", opacity=0.12, line_width=0)
+    st.plotly_chart(fig_saz, width='stretch')
+
+    st.subheader("Série semanal (tendência de longo prazo)")
     termos = st.multiselect("Termos", options=sorted(df_trends['termo'].unique()),
                             default=sorted(df_trends['termo'].unique()))
     df_t = df_trends[df_trends['termo'].isin(termos)]
     fig_trends = px.line(df_t, x='data', y='indice_busca', color='termo',
-                         title="Volume de buscas por tecnologia ao longo das semanas")
+                         title="Volume de buscas ao longo das semanas")
     st.plotly_chart(fig_trends, width='stretch')
-    st.caption("\"Chuveiro elétrico\" domina o interesse; \"aquecimento de piscina\" tem picos sazonais.")
 
-    st.subheader("Evolução do Discurso (Documentos do Setor)")
+    st.subheader("Evolução do discurso institucional (PDFs do setor)")
     fig_pdfs = px.bar(df_pdfs, x='periodo', y='frequencia', color='termo', barmode='group',
-                      title="Frequência de termos institucionais por período")
+                      title="Frequência de termos por período")
     st.plotly_chart(fig_pdfs, width='stretch')
+
+    st.success("**Recomendação:** concentre mídia e estoque entre **abril e julho**. Mensagem no Sul: "
+               "\"troque o chuveiro antes do inverno\". Use os termos que o consumidor já busca (\"aquecedor/aquecimento solar\").")
