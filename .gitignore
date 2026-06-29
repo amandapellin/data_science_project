@@ -3,9 +3,6 @@
 __pycache__/
 *.pyc
 
-# Streamlit gerado em runtime (Colab cria via %%writefile)
-app.py
-
 # Dados brutos/intermediários pesados (acima do limite do GitHub) — não são entregáveis
 dados_projeto_ciencia_dados/inmet_horario_tratado.csv
 *.zip
