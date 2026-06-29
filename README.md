@@ -39,6 +39,8 @@ Todos os notebooks foram desenvolvidos no **Google Colab** e leem/escrevem em:
 
 **Entradas brutas:** `2021.zip`–`2025.zip` (INMET), `consumo_mensal_energia_eletrica_por_classe.xlsx` (EPE), `pdfs_institucionais/` (12 PDFs PROCEL/EPE/ANEEL).
 
+> ⚠️ **Não versionados no GitHub** (muito grandes / dados brutos intermediários — ver `.gitignore`): `*.zip` do INMET, `inmet_horario_tratado.csv` (~1,4 GB), o `.xlsx` da EPE e os PDFs institucionais maiores. Estão no Google Drive do projeto; o repositório guarda os **CSVs tratados e integrados**, que bastam para reproduzir os dashboards.
+
 **Saídas tratadas (por fonte):** `censo2022_*.csv`, `pnadc_rendimento_domiciliar.csv`, `epe_consumo_por_segmento_uf.csv`, `inmet_horario_tratado.csv`, `inmet_mensal_por_uf.csv`, `gtrends_*.csv`, `pdfs_frequencia_*.csv`.
 
 **Saídas integradas / modeladas:**
@@ -52,7 +54,36 @@ Todos os notebooks foram desenvolvidos no **Google Colab** e leem/escrevem em:
 - `Projeto de Ciência de Dados - Amanda (revisado UF).docx` — descrição do projeto (versão revisada; usar esta).
 - `RELATORIO_recomendacoes.md` — relatório de negócio com achados e recomendações por segmento.
 - `GUIA_DASHBOARD.md` — guia para montar o dashboard (Power BI/Tableau).
+- `GUIA_DASHBOARD_DATA_STUDIO.md` — guia para montar o dashboard no Looker Studio (Google Data Studio).
+- `relatorio_data_studio.pdf` — exportação do relatório montado no Looker Studio.
 - `2 ETAPA … INSTRUCOES.docx` — enunciado da atividade (referência).
+
+---
+
+## Dashboards e visualização
+
+O projeto tem duas formas de visualização, ambas em nível de UF:
+
+**1. Looker Studio (Google Data Studio)** — montado a partir dos CSVs, seguindo o `GUIA_DASHBOARD_DATA_STUDIO.md`. Exportação em `relatorio_data_studio.pdf`.
+
+**2. App Streamlit (`app.py`)** — 4 páginas: (1) Visão regional com mapa do Brasil, (2) Aptidão por produto, (3) Sazonalidade clima × consumo, (4) Consumidor (Google Trends) e discurso institucional. Lê os CSVs do próprio repositório.
+
+> 🔗 **App online:** _adicione aqui a URL gerada no deploy_ (ex.: `https://data-science-project-xxxx.streamlit.app`).
+
+### Rodar o app localmente
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+Abre em `http://localhost:8501`.
+
+### Publicar online (Streamlit Community Cloud — gratuito)
+1. Acesse https://share.streamlit.io e entre com a conta GitHub.
+2. **Create app → Deploy a public app from GitHub.**
+3. Repositório `amandapellin/data_science_project`, branch `main`, *main file path* `app.py`.
+4. **Deploy.** Gera uma URL pública fixa; cada novo `push` redeploia automaticamente.
+
+> O dado consolidado usado pelo app é gerado por `dados_consolidados_looker.ipynb` (junta `painel_uf_clusters` + `painel_uf_integrado` + `painel_mensal_uf` → `dados_consolidados_looker.csv`).
 
 ---
 
