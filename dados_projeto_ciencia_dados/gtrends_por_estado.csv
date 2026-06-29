@@ -1,0 +1,136 @@
+﻿estado,uf,termo,indice_busca
+Acre,AC,aquecimento solar,10
+Alagoas,AL,aquecimento solar,7
+Amapá,AP,aquecimento solar,12
+Amazonas,AM,aquecimento solar,11
+Bahia,BA,aquecimento solar,10
+Ceará,CE,aquecimento solar,9
+Distrito Federal,DF,aquecimento solar,26
+Espírito Santo,ES,aquecimento solar,12
+Goiás,GO,aquecimento solar,19
+Maranhão,MA,aquecimento solar,13
+Mato Grosso,MT,aquecimento solar,13
+Mato Grosso do Sul,MS,aquecimento solar,14
+Minas Gerais,MG,aquecimento solar,14
+Paraná,PR,aquecimento solar,17
+Paraíba,PB,aquecimento solar,8
+Pará,PA,aquecimento solar,14
+Pernambuco,PE,aquecimento solar,6
+Piauí,PI,aquecimento solar,12
+Rio Grande do Norte,RN,aquecimento solar,10
+Rio Grande do Sul,RS,aquecimento solar,23
+Rio de Janeiro,RJ,aquecimento solar,9
+Rondônia,RO,aquecimento solar,12
+Roraima,RR,aquecimento solar,17
+Santa Catarina,SC,aquecimento solar,24
+Sergipe,SE,aquecimento solar,8
+São Paulo,SP,aquecimento solar,16
+Tocantins,TO,aquecimento solar,14
+Acre,AC,aquecimento de piscina,0
+Alagoas,AL,aquecimento de piscina,1
+Amapá,AP,aquecimento de piscina,0
+Amazonas,AM,aquecimento de piscina,0
+Bahia,BA,aquecimento de piscina,1
+Ceará,CE,aquecimento de piscina,1
+Distrito Federal,DF,aquecimento de piscina,11
+Espírito Santo,ES,aquecimento de piscina,2
+Goiás,GO,aquecimento de piscina,10
+Maranhão,MA,aquecimento de piscina,1
+Mato Grosso,MT,aquecimento de piscina,5
+Mato Grosso do Sul,MS,aquecimento de piscina,5
+Minas Gerais,MG,aquecimento de piscina,3
+Paraná,PR,aquecimento de piscina,7
+Paraíba,PB,aquecimento de piscina,1
+Pará,PA,aquecimento de piscina,1
+Pernambuco,PE,aquecimento de piscina,1
+Piauí,PI,aquecimento de piscina,1
+Rio Grande do Norte,RN,aquecimento de piscina,1
+Rio Grande do Sul,RS,aquecimento de piscina,11
+Rio de Janeiro,RJ,aquecimento de piscina,2
+Rondônia,RO,aquecimento de piscina,3
+Roraima,RR,aquecimento de piscina,0
+Santa Catarina,SC,aquecimento de piscina,7
+Sergipe,SE,aquecimento de piscina,1
+São Paulo,SP,aquecimento de piscina,5
+Tocantins,TO,aquecimento de piscina,4
+Acre,AC,aquecedor solar,8
+Alagoas,AL,aquecedor solar,8
+Amapá,AP,aquecedor solar,10
+Amazonas,AM,aquecedor solar,7
+Bahia,BA,aquecedor solar,11
+Ceará,CE,aquecedor solar,8
+Distrito Federal,DF,aquecedor solar,23
+Espírito Santo,ES,aquecedor solar,22
+Goiás,GO,aquecedor solar,28
+Maranhão,MA,aquecedor solar,9
+Mato Grosso,MT,aquecedor solar,24
+Mato Grosso do Sul,MS,aquecedor solar,36
+Minas Gerais,MG,aquecedor solar,54
+Paraná,PR,aquecedor solar,29
+Paraíba,PB,aquecedor solar,6
+Pará,PA,aquecedor solar,7
+Pernambuco,PE,aquecedor solar,7
+Piauí,PI,aquecedor solar,8
+Rio Grande do Norte,RN,aquecedor solar,8
+Rio Grande do Sul,RS,aquecedor solar,19
+Rio de Janeiro,RJ,aquecedor solar,12
+Rondônia,RO,aquecedor solar,18
+Roraima,RR,aquecedor solar,6
+Santa Catarina,SC,aquecedor solar,20
+Sergipe,SE,aquecedor solar,7
+São Paulo,SP,aquecedor solar,34
+Tocantins,TO,aquecedor solar,13
+Acre,AC,chuveiro elétrico,77
+Alagoas,AL,chuveiro elétrico,80
+Amapá,AP,chuveiro elétrico,78
+Amazonas,AM,chuveiro elétrico,77
+Bahia,BA,chuveiro elétrico,74
+Ceará,CE,chuveiro elétrico,79
+Distrito Federal,DF,chuveiro elétrico,35
+Espírito Santo,ES,chuveiro elétrico,59
+Goiás,GO,chuveiro elétrico,37
+Maranhão,MA,chuveiro elétrico,72
+Mato Grosso,MT,chuveiro elétrico,52
+Mato Grosso do Sul,MS,chuveiro elétrico,39
+Minas Gerais,MG,chuveiro elétrico,26
+Paraná,PR,chuveiro elétrico,40
+Paraíba,PB,chuveiro elétrico,82
+Pará,PA,chuveiro elétrico,73
+Pernambuco,PE,chuveiro elétrico,83
+Piauí,PI,chuveiro elétrico,75
+Rio Grande do Norte,RN,chuveiro elétrico,77
+Rio Grande do Sul,RS,chuveiro elétrico,39
+Rio de Janeiro,RJ,chuveiro elétrico,72
+Rondônia,RO,chuveiro elétrico,63
+Roraima,RR,chuveiro elétrico,69
+Santa Catarina,SC,chuveiro elétrico,41
+Sergipe,SE,chuveiro elétrico,82
+São Paulo,SP,chuveiro elétrico,38
+Tocantins,TO,chuveiro elétrico,66
+Acre,AC,bomba de calor,5
+Alagoas,AL,bomba de calor,4
+Amapá,AP,bomba de calor,0
+Amazonas,AM,bomba de calor,5
+Bahia,BA,bomba de calor,4
+Ceará,CE,bomba de calor,3
+Distrito Federal,DF,bomba de calor,5
+Espírito Santo,ES,bomba de calor,5
+Goiás,GO,bomba de calor,6
+Maranhão,MA,bomba de calor,5
+Mato Grosso,MT,bomba de calor,6
+Mato Grosso do Sul,MS,bomba de calor,6
+Minas Gerais,MG,bomba de calor,3
+Paraná,PR,bomba de calor,7
+Paraíba,PB,bomba de calor,3
+Pará,PA,bomba de calor,5
+Pernambuco,PE,bomba de calor,3
+Piauí,PI,bomba de calor,4
+Rio Grande do Norte,RN,bomba de calor,4
+Rio Grande do Sul,RS,bomba de calor,8
+Rio de Janeiro,RJ,bomba de calor,5
+Rondônia,RO,bomba de calor,4
+Roraima,RR,bomba de calor,8
+Santa Catarina,SC,bomba de calor,8
+Sergipe,SE,bomba de calor,2
+São Paulo,SP,bomba de calor,7
+Tocantins,TO,bomba de calor,3

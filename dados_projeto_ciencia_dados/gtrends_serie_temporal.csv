@@ -1,0 +1,1311 @@
+﻿data,termo,indice_busca,ano,mes
+2021-06-06,aquecimento solar,19,2021,6
+2021-06-13,aquecimento solar,22,2021,6
+2021-06-20,aquecimento solar,24,2021,6
+2021-06-27,aquecimento solar,25,2021,6
+2021-07-04,aquecimento solar,23,2021,7
+2021-07-11,aquecimento solar,20,2021,7
+2021-07-18,aquecimento solar,29,2021,7
+2021-07-25,aquecimento solar,25,2021,7
+2021-08-01,aquecimento solar,23,2021,8
+2021-08-08,aquecimento solar,23,2021,8
+2021-08-15,aquecimento solar,20,2021,8
+2021-08-22,aquecimento solar,23,2021,8
+2021-08-29,aquecimento solar,20,2021,8
+2021-09-05,aquecimento solar,23,2021,9
+2021-09-12,aquecimento solar,24,2021,9
+2021-09-19,aquecimento solar,21,2021,9
+2021-09-26,aquecimento solar,24,2021,9
+2021-10-03,aquecimento solar,18,2021,10
+2021-10-10,aquecimento solar,16,2021,10
+2021-10-17,aquecimento solar,18,2021,10
+2021-10-24,aquecimento solar,18,2021,10
+2021-10-31,aquecimento solar,18,2021,10
+2021-11-07,aquecimento solar,18,2021,11
+2021-11-14,aquecimento solar,15,2021,11
+2021-11-21,aquecimento solar,18,2021,11
+2021-11-28,aquecimento solar,19,2021,11
+2021-12-05,aquecimento solar,17,2021,12
+2021-12-12,aquecimento solar,12,2021,12
+2021-12-19,aquecimento solar,12,2021,12
+2021-12-26,aquecimento solar,17,2021,12
+2022-01-02,aquecimento solar,14,2022,1
+2022-01-09,aquecimento solar,14,2022,1
+2022-01-16,aquecimento solar,14,2022,1
+2022-01-23,aquecimento solar,15,2022,1
+2022-01-30,aquecimento solar,9,2022,1
+2022-02-06,aquecimento solar,13,2022,2
+2022-02-13,aquecimento solar,12,2022,2
+2022-02-20,aquecimento solar,14,2022,2
+2022-02-27,aquecimento solar,14,2022,2
+2022-03-06,aquecimento solar,16,2022,3
+2022-03-13,aquecimento solar,16,2022,3
+2022-03-20,aquecimento solar,16,2022,3
+2022-03-27,aquecimento solar,13,2022,3
+2022-04-03,aquecimento solar,14,2022,4
+2022-04-10,aquecimento solar,12,2022,4
+2022-04-17,aquecimento solar,17,2022,4
+2022-04-24,aquecimento solar,17,2022,4
+2022-05-01,aquecimento solar,15,2022,5
+2022-05-08,aquecimento solar,17,2022,5
+2022-05-15,aquecimento solar,16,2022,5
+2022-05-22,aquecimento solar,18,2022,5
+2022-05-29,aquecimento solar,19,2022,5
+2022-06-05,aquecimento solar,15,2022,6
+2022-06-12,aquecimento solar,18,2022,6
+2022-06-19,aquecimento solar,20,2022,6
+2022-06-26,aquecimento solar,16,2022,6
+2022-07-03,aquecimento solar,13,2022,7
+2022-07-10,aquecimento solar,13,2022,7
+2022-07-17,aquecimento solar,13,2022,7
+2022-07-24,aquecimento solar,16,2022,7
+2022-07-31,aquecimento solar,13,2022,7
+2022-08-07,aquecimento solar,12,2022,8
+2022-08-14,aquecimento solar,15,2022,8
+2022-08-21,aquecimento solar,15,2022,8
+2022-08-28,aquecimento solar,14,2022,8
+2022-09-04,aquecimento solar,13,2022,9
+2022-09-11,aquecimento solar,16,2022,9
+2022-09-18,aquecimento solar,15,2022,9
+2022-09-25,aquecimento solar,13,2022,9
+2022-10-02,aquecimento solar,9,2022,10
+2022-10-09,aquecimento solar,14,2022,10
+2022-10-16,aquecimento solar,14,2022,10
+2022-10-23,aquecimento solar,16,2022,10
+2022-10-30,aquecimento solar,12,2022,10
+2022-11-06,aquecimento solar,16,2022,11
+2022-11-13,aquecimento solar,16,2022,11
+2022-11-20,aquecimento solar,15,2022,11
+2022-11-27,aquecimento solar,15,2022,11
+2022-12-04,aquecimento solar,11,2022,12
+2022-12-11,aquecimento solar,11,2022,12
+2022-12-18,aquecimento solar,11,2022,12
+2022-12-25,aquecimento solar,10,2022,12
+2023-01-01,aquecimento solar,11,2023,1
+2023-01-08,aquecimento solar,10,2023,1
+2023-01-15,aquecimento solar,11,2023,1
+2023-01-22,aquecimento solar,11,2023,1
+2023-01-29,aquecimento solar,12,2023,1
+2023-02-05,aquecimento solar,9,2023,2
+2023-02-12,aquecimento solar,10,2023,2
+2023-02-19,aquecimento solar,10,2023,2
+2023-02-26,aquecimento solar,13,2023,2
+2023-03-05,aquecimento solar,10,2023,3
+2023-03-12,aquecimento solar,12,2023,3
+2023-03-19,aquecimento solar,13,2023,3
+2023-03-26,aquecimento solar,12,2023,3
+2023-04-02,aquecimento solar,12,2023,4
+2023-04-09,aquecimento solar,12,2023,4
+2023-04-16,aquecimento solar,13,2023,4
+2023-04-23,aquecimento solar,11,2023,4
+2023-04-30,aquecimento solar,12,2023,4
+2023-05-07,aquecimento solar,11,2023,5
+2023-05-14,aquecimento solar,15,2023,5
+2023-05-21,aquecimento solar,17,2023,5
+2023-05-28,aquecimento solar,15,2023,5
+2023-06-04,aquecimento solar,12,2023,6
+2023-06-11,aquecimento solar,16,2023,6
+2023-06-18,aquecimento solar,15,2023,6
+2023-06-25,aquecimento solar,14,2023,6
+2023-07-02,aquecimento solar,11,2023,7
+2023-07-09,aquecimento solar,13,2023,7
+2023-07-16,aquecimento solar,12,2023,7
+2023-07-23,aquecimento solar,13,2023,7
+2023-07-30,aquecimento solar,13,2023,7
+2023-08-06,aquecimento solar,12,2023,8
+2023-08-13,aquecimento solar,13,2023,8
+2023-08-20,aquecimento solar,14,2023,8
+2023-08-27,aquecimento solar,14,2023,8
+2023-09-03,aquecimento solar,13,2023,9
+2023-09-10,aquecimento solar,13,2023,9
+2023-09-17,aquecimento solar,21,2023,9
+2023-09-24,aquecimento solar,18,2023,9
+2023-10-01,aquecimento solar,11,2023,10
+2023-10-08,aquecimento solar,11,2023,10
+2023-10-15,aquecimento solar,13,2023,10
+2023-10-22,aquecimento solar,12,2023,10
+2023-10-29,aquecimento solar,11,2023,10
+2023-11-05,aquecimento solar,14,2023,11
+2023-11-12,aquecimento solar,16,2023,11
+2023-11-19,aquecimento solar,13,2023,11
+2023-11-26,aquecimento solar,14,2023,11
+2023-12-03,aquecimento solar,11,2023,12
+2023-12-10,aquecimento solar,11,2023,12
+2023-12-17,aquecimento solar,11,2023,12
+2023-12-24,aquecimento solar,9,2023,12
+2023-12-31,aquecimento solar,8,2023,12
+2024-01-07,aquecimento solar,11,2024,1
+2024-01-14,aquecimento solar,13,2024,1
+2024-01-21,aquecimento solar,8,2024,1
+2024-01-28,aquecimento solar,8,2024,1
+2024-02-04,aquecimento solar,10,2024,2
+2024-02-11,aquecimento solar,8,2024,2
+2024-02-18,aquecimento solar,10,2024,2
+2024-02-25,aquecimento solar,11,2024,2
+2024-03-03,aquecimento solar,13,2024,3
+2024-03-10,aquecimento solar,12,2024,3
+2024-03-17,aquecimento solar,11,2024,3
+2024-03-24,aquecimento solar,11,2024,3
+2024-03-31,aquecimento solar,17,2024,3
+2024-04-07,aquecimento solar,13,2024,4
+2024-04-14,aquecimento solar,12,2024,4
+2024-04-21,aquecimento solar,12,2024,4
+2024-04-28,aquecimento solar,10,2024,4
+2024-05-05,aquecimento solar,11,2024,5
+2024-05-12,aquecimento solar,12,2024,5
+2024-05-19,aquecimento solar,11,2024,5
+2024-05-26,aquecimento solar,11,2024,5
+2024-06-02,aquecimento solar,14,2024,6
+2024-06-09,aquecimento solar,15,2024,6
+2024-06-16,aquecimento solar,14,2024,6
+2024-06-23,aquecimento solar,14,2024,6
+2024-06-30,aquecimento solar,12,2024,6
+2024-07-07,aquecimento solar,15,2024,7
+2024-07-14,aquecimento solar,9,2024,7
+2024-07-21,aquecimento solar,12,2024,7
+2024-07-28,aquecimento solar,11,2024,7
+2024-08-04,aquecimento solar,18,2024,8
+2024-08-11,aquecimento solar,17,2024,8
+2024-08-18,aquecimento solar,14,2024,8
+2024-08-25,aquecimento solar,15,2024,8
+2024-09-01,aquecimento solar,11,2024,9
+2024-09-08,aquecimento solar,17,2024,9
+2024-09-15,aquecimento solar,13,2024,9
+2024-09-22,aquecimento solar,16,2024,9
+2024-09-29,aquecimento solar,14,2024,9
+2024-10-06,aquecimento solar,13,2024,10
+2024-10-13,aquecimento solar,13,2024,10
+2024-10-20,aquecimento solar,13,2024,10
+2024-10-27,aquecimento solar,11,2024,10
+2024-11-03,aquecimento solar,12,2024,11
+2024-11-10,aquecimento solar,15,2024,11
+2024-11-17,aquecimento solar,14,2024,11
+2024-11-24,aquecimento solar,11,2024,11
+2024-12-01,aquecimento solar,12,2024,12
+2024-12-08,aquecimento solar,12,2024,12
+2024-12-15,aquecimento solar,10,2024,12
+2024-12-22,aquecimento solar,10,2024,12
+2024-12-29,aquecimento solar,11,2024,12
+2025-01-05,aquecimento solar,11,2025,1
+2025-01-12,aquecimento solar,11,2025,1
+2025-01-19,aquecimento solar,11,2025,1
+2025-01-26,aquecimento solar,7,2025,1
+2025-02-02,aquecimento solar,8,2025,2
+2025-02-09,aquecimento solar,9,2025,2
+2025-02-16,aquecimento solar,11,2025,2
+2025-02-23,aquecimento solar,13,2025,2
+2025-03-02,aquecimento solar,12,2025,3
+2025-03-09,aquecimento solar,11,2025,3
+2025-03-16,aquecimento solar,15,2025,3
+2025-03-23,aquecimento solar,11,2025,3
+2025-03-30,aquecimento solar,12,2025,3
+2025-04-06,aquecimento solar,10,2025,4
+2025-04-13,aquecimento solar,7,2025,4
+2025-04-20,aquecimento solar,9,2025,4
+2025-04-27,aquecimento solar,12,2025,4
+2025-05-04,aquecimento solar,9,2025,5
+2025-05-11,aquecimento solar,11,2025,5
+2025-05-18,aquecimento solar,11,2025,5
+2025-05-25,aquecimento solar,11,2025,5
+2025-06-01,aquecimento solar,13,2025,6
+2025-06-08,aquecimento solar,13,2025,6
+2025-06-15,aquecimento solar,17,2025,6
+2025-06-22,aquecimento solar,18,2025,6
+2025-06-29,aquecimento solar,14,2025,6
+2025-07-06,aquecimento solar,14,2025,7
+2025-07-13,aquecimento solar,13,2025,7
+2025-07-20,aquecimento solar,12,2025,7
+2025-07-27,aquecimento solar,11,2025,7
+2025-08-03,aquecimento solar,9,2025,8
+2025-08-10,aquecimento solar,14,2025,8
+2025-08-17,aquecimento solar,12,2025,8
+2025-08-24,aquecimento solar,9,2025,8
+2025-08-31,aquecimento solar,11,2025,8
+2025-09-07,aquecimento solar,12,2025,9
+2025-09-14,aquecimento solar,11,2025,9
+2025-09-21,aquecimento solar,11,2025,9
+2025-09-28,aquecimento solar,11,2025,9
+2025-10-05,aquecimento solar,11,2025,10
+2025-10-12,aquecimento solar,12,2025,10
+2025-10-19,aquecimento solar,12,2025,10
+2025-10-26,aquecimento solar,10,2025,10
+2025-11-02,aquecimento solar,10,2025,11
+2025-11-09,aquecimento solar,13,2025,11
+2025-11-16,aquecimento solar,12,2025,11
+2025-11-23,aquecimento solar,13,2025,11
+2025-11-30,aquecimento solar,15,2025,11
+2025-12-07,aquecimento solar,10,2025,12
+2025-12-14,aquecimento solar,9,2025,12
+2025-12-21,aquecimento solar,9,2025,12
+2025-12-28,aquecimento solar,8,2025,12
+2026-01-04,aquecimento solar,8,2026,1
+2026-01-11,aquecimento solar,9,2026,1
+2026-01-18,aquecimento solar,7,2026,1
+2026-01-25,aquecimento solar,9,2026,1
+2026-02-01,aquecimento solar,6,2026,2
+2026-02-08,aquecimento solar,8,2026,2
+2026-02-15,aquecimento solar,9,2026,2
+2026-02-22,aquecimento solar,9,2026,2
+2026-03-01,aquecimento solar,12,2026,3
+2026-03-08,aquecimento solar,11,2026,3
+2026-03-15,aquecimento solar,9,2026,3
+2026-03-22,aquecimento solar,12,2026,3
+2026-03-29,aquecimento solar,11,2026,3
+2026-04-05,aquecimento solar,11,2026,4
+2026-04-12,aquecimento solar,10,2026,4
+2026-04-19,aquecimento solar,8,2026,4
+2026-04-26,aquecimento solar,11,2026,4
+2026-05-03,aquecimento solar,8,2026,5
+2026-05-10,aquecimento solar,14,2026,5
+2026-05-17,aquecimento solar,12,2026,5
+2026-05-24,aquecimento solar,10,2026,5
+2026-05-31,aquecimento solar,10,2026,5
+2026-06-07,aquecimento solar,11,2026,6
+2021-06-06,aquecimento de piscina,3,2021,6
+2021-06-13,aquecimento de piscina,4,2021,6
+2021-06-20,aquecimento de piscina,6,2021,6
+2021-06-27,aquecimento de piscina,5,2021,6
+2021-07-04,aquecimento de piscina,5,2021,7
+2021-07-11,aquecimento de piscina,4,2021,7
+2021-07-18,aquecimento de piscina,6,2021,7
+2021-07-25,aquecimento de piscina,6,2021,7
+2021-08-01,aquecimento de piscina,3,2021,8
+2021-08-08,aquecimento de piscina,3,2021,8
+2021-08-15,aquecimento de piscina,7,2021,8
+2021-08-22,aquecimento de piscina,6,2021,8
+2021-08-29,aquecimento de piscina,6,2021,8
+2021-09-05,aquecimento de piscina,7,2021,9
+2021-09-12,aquecimento de piscina,3,2021,9
+2021-09-19,aquecimento de piscina,8,2021,9
+2021-09-26,aquecimento de piscina,8,2021,9
+2021-10-03,aquecimento de piscina,3,2021,10
+2021-10-10,aquecimento de piscina,5,2021,10
+2021-10-17,aquecimento de piscina,7,2021,10
+2021-10-24,aquecimento de piscina,5,2021,10
+2021-10-31,aquecimento de piscina,6,2021,10
+2021-11-07,aquecimento de piscina,5,2021,11
+2021-11-14,aquecimento de piscina,3,2021,11
+2021-11-21,aquecimento de piscina,6,2021,11
+2021-11-28,aquecimento de piscina,4,2021,11
+2021-12-05,aquecimento de piscina,6,2021,12
+2021-12-12,aquecimento de piscina,5,2021,12
+2021-12-19,aquecimento de piscina,5,2021,12
+2021-12-26,aquecimento de piscina,7,2021,12
+2022-01-02,aquecimento de piscina,7,2022,1
+2022-01-09,aquecimento de piscina,3,2022,1
+2022-01-16,aquecimento de piscina,5,2022,1
+2022-01-23,aquecimento de piscina,5,2022,1
+2022-01-30,aquecimento de piscina,5,2022,1
+2022-02-06,aquecimento de piscina,5,2022,2
+2022-02-13,aquecimento de piscina,3,2022,2
+2022-02-20,aquecimento de piscina,4,2022,2
+2022-02-27,aquecimento de piscina,5,2022,2
+2022-03-06,aquecimento de piscina,5,2022,3
+2022-03-13,aquecimento de piscina,5,2022,3
+2022-03-20,aquecimento de piscina,4,2022,3
+2022-03-27,aquecimento de piscina,4,2022,3
+2022-04-03,aquecimento de piscina,4,2022,4
+2022-04-10,aquecimento de piscina,3,2022,4
+2022-04-17,aquecimento de piscina,4,2022,4
+2022-04-24,aquecimento de piscina,4,2022,4
+2022-05-01,aquecimento de piscina,4,2022,5
+2022-05-08,aquecimento de piscina,5,2022,5
+2022-05-15,aquecimento de piscina,4,2022,5
+2022-05-22,aquecimento de piscina,5,2022,5
+2022-05-29,aquecimento de piscina,4,2022,5
+2022-06-05,aquecimento de piscina,4,2022,6
+2022-06-12,aquecimento de piscina,4,2022,6
+2022-06-19,aquecimento de piscina,5,2022,6
+2022-06-26,aquecimento de piscina,5,2022,6
+2022-07-03,aquecimento de piscina,6,2022,7
+2022-07-10,aquecimento de piscina,4,2022,7
+2022-07-17,aquecimento de piscina,4,2022,7
+2022-07-24,aquecimento de piscina,4,2022,7
+2022-07-31,aquecimento de piscina,5,2022,7
+2022-08-07,aquecimento de piscina,4,2022,8
+2022-08-14,aquecimento de piscina,5,2022,8
+2022-08-21,aquecimento de piscina,3,2022,8
+2022-08-28,aquecimento de piscina,5,2022,8
+2022-09-04,aquecimento de piscina,5,2022,9
+2022-09-11,aquecimento de piscina,6,2022,9
+2022-09-18,aquecimento de piscina,4,2022,9
+2022-09-25,aquecimento de piscina,3,2022,9
+2022-10-02,aquecimento de piscina,3,2022,10
+2022-10-09,aquecimento de piscina,5,2022,10
+2022-10-16,aquecimento de piscina,5,2022,10
+2022-10-23,aquecimento de piscina,5,2022,10
+2022-10-30,aquecimento de piscina,4,2022,10
+2022-11-06,aquecimento de piscina,6,2022,11
+2022-11-13,aquecimento de piscina,8,2022,11
+2022-11-20,aquecimento de piscina,5,2022,11
+2022-11-27,aquecimento de piscina,6,2022,11
+2022-12-04,aquecimento de piscina,5,2022,12
+2022-12-11,aquecimento de piscina,5,2022,12
+2022-12-18,aquecimento de piscina,4,2022,12
+2022-12-25,aquecimento de piscina,5,2022,12
+2023-01-01,aquecimento de piscina,5,2023,1
+2023-01-08,aquecimento de piscina,5,2023,1
+2023-01-15,aquecimento de piscina,5,2023,1
+2023-01-22,aquecimento de piscina,4,2023,1
+2023-01-29,aquecimento de piscina,4,2023,1
+2023-02-05,aquecimento de piscina,3,2023,2
+2023-02-12,aquecimento de piscina,4,2023,2
+2023-02-19,aquecimento de piscina,3,2023,2
+2023-02-26,aquecimento de piscina,4,2023,2
+2023-03-05,aquecimento de piscina,4,2023,3
+2023-03-12,aquecimento de piscina,4,2023,3
+2023-03-19,aquecimento de piscina,3,2023,3
+2023-03-26,aquecimento de piscina,4,2023,3
+2023-04-02,aquecimento de piscina,4,2023,4
+2023-04-09,aquecimento de piscina,3,2023,4
+2023-04-16,aquecimento de piscina,4,2023,4
+2023-04-23,aquecimento de piscina,3,2023,4
+2023-04-30,aquecimento de piscina,4,2023,4
+2023-05-07,aquecimento de piscina,3,2023,5
+2023-05-14,aquecimento de piscina,5,2023,5
+2023-05-21,aquecimento de piscina,5,2023,5
+2023-05-28,aquecimento de piscina,3,2023,5
+2023-06-04,aquecimento de piscina,3,2023,6
+2023-06-11,aquecimento de piscina,4,2023,6
+2023-06-18,aquecimento de piscina,4,2023,6
+2023-06-25,aquecimento de piscina,4,2023,6
+2023-07-02,aquecimento de piscina,4,2023,7
+2023-07-09,aquecimento de piscina,3,2023,7
+2023-07-16,aquecimento de piscina,6,2023,7
+2023-07-23,aquecimento de piscina,4,2023,7
+2023-07-30,aquecimento de piscina,6,2023,7
+2023-08-06,aquecimento de piscina,6,2023,8
+2023-08-13,aquecimento de piscina,4,2023,8
+2023-08-20,aquecimento de piscina,6,2023,8
+2023-08-27,aquecimento de piscina,4,2023,8
+2023-09-03,aquecimento de piscina,5,2023,9
+2023-09-10,aquecimento de piscina,4,2023,9
+2023-09-17,aquecimento de piscina,9,2023,9
+2023-09-24,aquecimento de piscina,8,2023,9
+2023-10-01,aquecimento de piscina,6,2023,10
+2023-10-08,aquecimento de piscina,4,2023,10
+2023-10-15,aquecimento de piscina,5,2023,10
+2023-10-22,aquecimento de piscina,4,2023,10
+2023-10-29,aquecimento de piscina,4,2023,10
+2023-11-05,aquecimento de piscina,4,2023,11
+2023-11-12,aquecimento de piscina,6,2023,11
+2023-11-19,aquecimento de piscina,4,2023,11
+2023-11-26,aquecimento de piscina,3,2023,11
+2023-12-03,aquecimento de piscina,5,2023,12
+2023-12-10,aquecimento de piscina,4,2023,12
+2023-12-17,aquecimento de piscina,4,2023,12
+2023-12-24,aquecimento de piscina,6,2023,12
+2023-12-31,aquecimento de piscina,6,2023,12
+2024-01-07,aquecimento de piscina,5,2024,1
+2024-01-14,aquecimento de piscina,5,2024,1
+2024-01-21,aquecimento de piscina,2,2024,1
+2024-01-28,aquecimento de piscina,3,2024,1
+2024-02-04,aquecimento de piscina,4,2024,2
+2024-02-11,aquecimento de piscina,4,2024,2
+2024-02-18,aquecimento de piscina,3,2024,2
+2024-02-25,aquecimento de piscina,4,2024,2
+2024-03-03,aquecimento de piscina,4,2024,3
+2024-03-10,aquecimento de piscina,3,2024,3
+2024-03-17,aquecimento de piscina,3,2024,3
+2024-03-24,aquecimento de piscina,3,2024,3
+2024-03-31,aquecimento de piscina,3,2024,3
+2024-04-07,aquecimento de piscina,4,2024,4
+2024-04-14,aquecimento de piscina,3,2024,4
+2024-04-21,aquecimento de piscina,4,2024,4
+2024-04-28,aquecimento de piscina,4,2024,4
+2024-05-05,aquecimento de piscina,4,2024,5
+2024-05-12,aquecimento de piscina,5,2024,5
+2024-05-19,aquecimento de piscina,4,2024,5
+2024-05-26,aquecimento de piscina,4,2024,5
+2024-06-02,aquecimento de piscina,5,2024,6
+2024-06-09,aquecimento de piscina,5,2024,6
+2024-06-16,aquecimento de piscina,4,2024,6
+2024-06-23,aquecimento de piscina,3,2024,6
+2024-06-30,aquecimento de piscina,6,2024,6
+2024-07-07,aquecimento de piscina,4,2024,7
+2024-07-14,aquecimento de piscina,4,2024,7
+2024-07-21,aquecimento de piscina,4,2024,7
+2024-07-28,aquecimento de piscina,5,2024,7
+2024-08-04,aquecimento de piscina,6,2024,8
+2024-08-11,aquecimento de piscina,5,2024,8
+2024-08-18,aquecimento de piscina,4,2024,8
+2024-08-25,aquecimento de piscina,5,2024,8
+2024-09-01,aquecimento de piscina,5,2024,9
+2024-09-08,aquecimento de piscina,6,2024,9
+2024-09-15,aquecimento de piscina,5,2024,9
+2024-09-22,aquecimento de piscina,7,2024,9
+2024-09-29,aquecimento de piscina,6,2024,9
+2024-10-06,aquecimento de piscina,5,2024,10
+2024-10-13,aquecimento de piscina,5,2024,10
+2024-10-20,aquecimento de piscina,6,2024,10
+2024-10-27,aquecimento de piscina,4,2024,10
+2024-11-03,aquecimento de piscina,4,2024,11
+2024-11-10,aquecimento de piscina,4,2024,11
+2024-11-17,aquecimento de piscina,8,2024,11
+2024-11-24,aquecimento de piscina,7,2024,11
+2024-12-01,aquecimento de piscina,6,2024,12
+2024-12-08,aquecimento de piscina,5,2024,12
+2024-12-15,aquecimento de piscina,3,2024,12
+2024-12-22,aquecimento de piscina,6,2024,12
+2024-12-29,aquecimento de piscina,4,2024,12
+2025-01-05,aquecimento de piscina,7,2025,1
+2025-01-12,aquecimento de piscina,6,2025,1
+2025-01-19,aquecimento de piscina,5,2025,1
+2025-01-26,aquecimento de piscina,4,2025,1
+2025-02-02,aquecimento de piscina,5,2025,2
+2025-02-09,aquecimento de piscina,4,2025,2
+2025-02-16,aquecimento de piscina,4,2025,2
+2025-02-23,aquecimento de piscina,4,2025,2
+2025-03-02,aquecimento de piscina,5,2025,3
+2025-03-09,aquecimento de piscina,4,2025,3
+2025-03-16,aquecimento de piscina,4,2025,3
+2025-03-23,aquecimento de piscina,3,2025,3
+2025-03-30,aquecimento de piscina,2,2025,3
+2025-04-06,aquecimento de piscina,3,2025,4
+2025-04-13,aquecimento de piscina,3,2025,4
+2025-04-20,aquecimento de piscina,0,2025,4
+2025-04-27,aquecimento de piscina,3,2025,4
+2025-05-04,aquecimento de piscina,3,2025,5
+2025-05-11,aquecimento de piscina,4,2025,5
+2025-05-18,aquecimento de piscina,3,2025,5
+2025-05-25,aquecimento de piscina,2,2025,5
+2025-06-01,aquecimento de piscina,4,2025,6
+2025-06-08,aquecimento de piscina,5,2025,6
+2025-06-15,aquecimento de piscina,4,2025,6
+2025-06-22,aquecimento de piscina,3,2025,6
+2025-06-29,aquecimento de piscina,4,2025,6
+2025-07-06,aquecimento de piscina,5,2025,7
+2025-07-13,aquecimento de piscina,4,2025,7
+2025-07-20,aquecimento de piscina,3,2025,7
+2025-07-27,aquecimento de piscina,5,2025,7
+2025-08-03,aquecimento de piscina,5,2025,8
+2025-08-10,aquecimento de piscina,5,2025,8
+2025-08-17,aquecimento de piscina,3,2025,8
+2025-08-24,aquecimento de piscina,4,2025,8
+2025-08-31,aquecimento de piscina,6,2025,8
+2025-09-07,aquecimento de piscina,6,2025,9
+2025-09-14,aquecimento de piscina,7,2025,9
+2025-09-21,aquecimento de piscina,6,2025,9
+2025-09-28,aquecimento de piscina,6,2025,9
+2025-10-05,aquecimento de piscina,4,2025,10
+2025-10-12,aquecimento de piscina,6,2025,10
+2025-10-19,aquecimento de piscina,5,2025,10
+2025-10-26,aquecimento de piscina,6,2025,10
+2025-11-02,aquecimento de piscina,7,2025,11
+2025-11-09,aquecimento de piscina,5,2025,11
+2025-11-16,aquecimento de piscina,5,2025,11
+2025-11-23,aquecimento de piscina,6,2025,11
+2025-11-30,aquecimento de piscina,7,2025,11
+2025-12-07,aquecimento de piscina,4,2025,12
+2025-12-14,aquecimento de piscina,5,2025,12
+2025-12-21,aquecimento de piscina,6,2025,12
+2025-12-28,aquecimento de piscina,6,2025,12
+2026-01-04,aquecimento de piscina,5,2026,1
+2026-01-11,aquecimento de piscina,6,2026,1
+2026-01-18,aquecimento de piscina,4,2026,1
+2026-01-25,aquecimento de piscina,5,2026,1
+2026-02-01,aquecimento de piscina,3,2026,2
+2026-02-08,aquecimento de piscina,4,2026,2
+2026-02-15,aquecimento de piscina,6,2026,2
+2026-02-22,aquecimento de piscina,5,2026,2
+2026-03-01,aquecimento de piscina,5,2026,3
+2026-03-08,aquecimento de piscina,4,2026,3
+2026-03-15,aquecimento de piscina,4,2026,3
+2026-03-22,aquecimento de piscina,4,2026,3
+2026-03-29,aquecimento de piscina,4,2026,3
+2026-04-05,aquecimento de piscina,4,2026,4
+2026-04-12,aquecimento de piscina,4,2026,4
+2026-04-19,aquecimento de piscina,4,2026,4
+2026-04-26,aquecimento de piscina,3,2026,4
+2026-05-03,aquecimento de piscina,5,2026,5
+2026-05-10,aquecimento de piscina,5,2026,5
+2026-05-17,aquecimento de piscina,4,2026,5
+2026-05-24,aquecimento de piscina,1,2026,5
+2026-05-31,aquecimento de piscina,4,2026,5
+2026-06-07,aquecimento de piscina,4,2026,6
+2021-06-06,aquecedor solar,33,2021,6
+2021-06-13,aquecedor solar,45,2021,6
+2021-06-20,aquecedor solar,44,2021,6
+2021-06-27,aquecedor solar,66,2021,6
+2021-07-04,aquecedor solar,58,2021,7
+2021-07-11,aquecedor solar,49,2021,7
+2021-07-18,aquecedor solar,92,2021,7
+2021-07-25,aquecedor solar,73,2021,7
+2021-08-01,aquecedor solar,58,2021,8
+2021-08-08,aquecedor solar,46,2021,8
+2021-08-15,aquecedor solar,41,2021,8
+2021-08-22,aquecedor solar,47,2021,8
+2021-08-29,aquecedor solar,46,2021,8
+2021-09-05,aquecedor solar,48,2021,9
+2021-09-12,aquecedor solar,41,2021,9
+2021-09-19,aquecedor solar,38,2021,9
+2021-09-26,aquecedor solar,34,2021,9
+2021-10-03,aquecedor solar,29,2021,10
+2021-10-10,aquecedor solar,27,2021,10
+2021-10-17,aquecedor solar,32,2021,10
+2021-10-24,aquecedor solar,33,2021,10
+2021-10-31,aquecedor solar,32,2021,10
+2021-11-07,aquecedor solar,27,2021,11
+2021-11-14,aquecedor solar,36,2021,11
+2021-11-21,aquecedor solar,28,2021,11
+2021-11-28,aquecedor solar,27,2021,11
+2021-12-05,aquecedor solar,34,2021,12
+2021-12-12,aquecedor solar,27,2021,12
+2021-12-19,aquecedor solar,28,2021,12
+2021-12-26,aquecedor solar,34,2021,12
+2022-01-02,aquecedor solar,36,2022,1
+2022-01-09,aquecedor solar,30,2022,1
+2022-01-16,aquecedor solar,27,2022,1
+2022-01-23,aquecedor solar,29,2022,1
+2022-01-30,aquecedor solar,25,2022,1
+2022-02-06,aquecedor solar,22,2022,2
+2022-02-13,aquecedor solar,27,2022,2
+2022-02-20,aquecedor solar,27,2022,2
+2022-02-27,aquecedor solar,27,2022,2
+2022-03-06,aquecedor solar,29,2022,3
+2022-03-13,aquecedor solar,28,2022,3
+2022-03-20,aquecedor solar,29,2022,3
+2022-03-27,aquecedor solar,29,2022,3
+2022-04-03,aquecedor solar,30,2022,4
+2022-04-10,aquecedor solar,27,2022,4
+2022-04-17,aquecedor solar,33,2022,4
+2022-04-24,aquecedor solar,31,2022,4
+2022-05-01,aquecedor solar,29,2022,5
+2022-05-08,aquecedor solar,33,2022,5
+2022-05-15,aquecedor solar,52,2022,5
+2022-05-22,aquecedor solar,43,2022,5
+2022-05-29,aquecedor solar,37,2022,5
+2022-06-05,aquecedor solar,32,2022,6
+2022-06-12,aquecedor solar,39,2022,6
+2022-06-19,aquecedor solar,39,2022,6
+2022-06-26,aquecedor solar,32,2022,6
+2022-07-03,aquecedor solar,35,2022,7
+2022-07-10,aquecedor solar,31,2022,7
+2022-07-17,aquecedor solar,31,2022,7
+2022-07-24,aquecedor solar,34,2022,7
+2022-07-31,aquecedor solar,33,2022,7
+2022-08-07,aquecedor solar,26,2022,8
+2022-08-14,aquecedor solar,35,2022,8
+2022-08-21,aquecedor solar,29,2022,8
+2022-08-28,aquecedor solar,29,2022,8
+2022-09-04,aquecedor solar,29,2022,9
+2022-09-11,aquecedor solar,25,2022,9
+2022-09-18,aquecedor solar,28,2022,9
+2022-09-25,aquecedor solar,22,2022,9
+2022-10-02,aquecedor solar,20,2022,10
+2022-10-09,aquecedor solar,27,2022,10
+2022-10-16,aquecedor solar,23,2022,10
+2022-10-23,aquecedor solar,23,2022,10
+2022-10-30,aquecedor solar,17,2022,10
+2022-11-06,aquecedor solar,27,2022,11
+2022-11-13,aquecedor solar,25,2022,11
+2022-11-20,aquecedor solar,25,2022,11
+2022-11-27,aquecedor solar,20,2022,11
+2022-12-04,aquecedor solar,21,2022,12
+2022-12-11,aquecedor solar,18,2022,12
+2022-12-18,aquecedor solar,19,2022,12
+2022-12-25,aquecedor solar,22,2022,12
+2023-01-01,aquecedor solar,23,2023,1
+2023-01-08,aquecedor solar,19,2023,1
+2023-01-15,aquecedor solar,22,2023,1
+2023-01-22,aquecedor solar,21,2023,1
+2023-01-29,aquecedor solar,25,2023,1
+2023-02-05,aquecedor solar,17,2023,2
+2023-02-12,aquecedor solar,19,2023,2
+2023-02-19,aquecedor solar,19,2023,2
+2023-02-26,aquecedor solar,20,2023,2
+2023-03-05,aquecedor solar,19,2023,3
+2023-03-12,aquecedor solar,19,2023,3
+2023-03-19,aquecedor solar,23,2023,3
+2023-03-26,aquecedor solar,22,2023,3
+2023-04-02,aquecedor solar,21,2023,4
+2023-04-09,aquecedor solar,21,2023,4
+2023-04-16,aquecedor solar,21,2023,4
+2023-04-23,aquecedor solar,27,2023,4
+2023-04-30,aquecedor solar,23,2023,4
+2023-05-07,aquecedor solar,24,2023,5
+2023-05-14,aquecedor solar,31,2023,5
+2023-05-21,aquecedor solar,28,2023,5
+2023-05-28,aquecedor solar,31,2023,5
+2023-06-04,aquecedor solar,28,2023,6
+2023-06-11,aquecedor solar,32,2023,6
+2023-06-18,aquecedor solar,35,2023,6
+2023-06-25,aquecedor solar,28,2023,6
+2023-07-02,aquecedor solar,32,2023,7
+2023-07-09,aquecedor solar,27,2023,7
+2023-07-16,aquecedor solar,28,2023,7
+2023-07-23,aquecedor solar,27,2023,7
+2023-07-30,aquecedor solar,23,2023,7
+2023-08-06,aquecedor solar,28,2023,8
+2023-08-13,aquecedor solar,28,2023,8
+2023-08-20,aquecedor solar,29,2023,8
+2023-08-27,aquecedor solar,28,2023,8
+2023-09-03,aquecedor solar,25,2023,9
+2023-09-10,aquecedor solar,27,2023,9
+2023-09-17,aquecedor solar,30,2023,9
+2023-09-24,aquecedor solar,25,2023,9
+2023-10-01,aquecedor solar,24,2023,10
+2023-10-08,aquecedor solar,19,2023,10
+2023-10-15,aquecedor solar,24,2023,10
+2023-10-22,aquecedor solar,23,2023,10
+2023-10-29,aquecedor solar,18,2023,10
+2023-11-05,aquecedor solar,23,2023,11
+2023-11-12,aquecedor solar,25,2023,11
+2023-11-19,aquecedor solar,16,2023,11
+2023-11-26,aquecedor solar,18,2023,11
+2023-12-03,aquecedor solar,18,2023,12
+2023-12-10,aquecedor solar,17,2023,12
+2023-12-17,aquecedor solar,16,2023,12
+2023-12-24,aquecedor solar,18,2023,12
+2023-12-31,aquecedor solar,19,2023,12
+2024-01-07,aquecedor solar,18,2024,1
+2024-01-14,aquecedor solar,18,2024,1
+2024-01-21,aquecedor solar,17,2024,1
+2024-01-28,aquecedor solar,18,2024,1
+2024-02-04,aquecedor solar,15,2024,2
+2024-02-11,aquecedor solar,16,2024,2
+2024-02-18,aquecedor solar,18,2024,2
+2024-02-25,aquecedor solar,17,2024,2
+2024-03-03,aquecedor solar,14,2024,3
+2024-03-10,aquecedor solar,18,2024,3
+2024-03-17,aquecedor solar,15,2024,3
+2024-03-24,aquecedor solar,14,2024,3
+2024-03-31,aquecedor solar,16,2024,3
+2024-04-07,aquecedor solar,17,2024,4
+2024-04-14,aquecedor solar,15,2024,4
+2024-04-21,aquecedor solar,15,2024,4
+2024-04-28,aquecedor solar,17,2024,4
+2024-05-05,aquecedor solar,18,2024,5
+2024-05-12,aquecedor solar,20,2024,5
+2024-05-19,aquecedor solar,19,2024,5
+2024-05-26,aquecedor solar,27,2024,5
+2024-06-02,aquecedor solar,27,2024,6
+2024-06-09,aquecedor solar,26,2024,6
+2024-06-16,aquecedor solar,22,2024,6
+2024-06-23,aquecedor solar,24,2024,6
+2024-06-30,aquecedor solar,25,2024,6
+2024-07-07,aquecedor solar,24,2024,7
+2024-07-14,aquecedor solar,23,2024,7
+2024-07-21,aquecedor solar,22,2024,7
+2024-07-28,aquecedor solar,21,2024,7
+2024-08-04,aquecedor solar,22,2024,8
+2024-08-11,aquecedor solar,31,2024,8
+2024-08-18,aquecedor solar,19,2024,8
+2024-08-25,aquecedor solar,21,2024,8
+2024-09-01,aquecedor solar,24,2024,9
+2024-09-08,aquecedor solar,23,2024,9
+2024-09-15,aquecedor solar,19,2024,9
+2024-09-22,aquecedor solar,23,2024,9
+2024-09-29,aquecedor solar,18,2024,9
+2024-10-06,aquecedor solar,17,2024,10
+2024-10-13,aquecedor solar,20,2024,10
+2024-10-20,aquecedor solar,19,2024,10
+2024-10-27,aquecedor solar,16,2024,10
+2024-11-03,aquecedor solar,18,2024,11
+2024-11-10,aquecedor solar,19,2024,11
+2024-11-17,aquecedor solar,19,2024,11
+2024-11-24,aquecedor solar,17,2024,11
+2024-12-01,aquecedor solar,16,2024,12
+2024-12-08,aquecedor solar,15,2024,12
+2024-12-15,aquecedor solar,16,2024,12
+2024-12-22,aquecedor solar,18,2024,12
+2024-12-29,aquecedor solar,20,2024,12
+2025-01-05,aquecedor solar,17,2025,1
+2025-01-12,aquecedor solar,16,2025,1
+2025-01-19,aquecedor solar,19,2025,1
+2025-01-26,aquecedor solar,13,2025,1
+2025-02-02,aquecedor solar,16,2025,2
+2025-02-09,aquecedor solar,14,2025,2
+2025-02-16,aquecedor solar,18,2025,2
+2025-02-23,aquecedor solar,17,2025,2
+2025-03-02,aquecedor solar,18,2025,3
+2025-03-09,aquecedor solar,16,2025,3
+2025-03-16,aquecedor solar,17,2025,3
+2025-03-23,aquecedor solar,16,2025,3
+2025-03-30,aquecedor solar,14,2025,3
+2025-04-06,aquecedor solar,18,2025,4
+2025-04-13,aquecedor solar,15,2025,4
+2025-04-20,aquecedor solar,13,2025,4
+2025-04-27,aquecedor solar,19,2025,4
+2025-05-04,aquecedor solar,17,2025,5
+2025-05-11,aquecedor solar,17,2025,5
+2025-05-18,aquecedor solar,18,2025,5
+2025-05-25,aquecedor solar,20,2025,5
+2025-06-01,aquecedor solar,22,2025,6
+2025-06-08,aquecedor solar,29,2025,6
+2025-06-15,aquecedor solar,22,2025,6
+2025-06-22,aquecedor solar,32,2025,6
+2025-06-29,aquecedor solar,28,2025,6
+2025-07-06,aquecedor solar,28,2025,7
+2025-07-13,aquecedor solar,31,2025,7
+2025-07-20,aquecedor solar,23,2025,7
+2025-07-27,aquecedor solar,27,2025,7
+2025-08-03,aquecedor solar,24,2025,8
+2025-08-10,aquecedor solar,27,2025,8
+2025-08-17,aquecedor solar,23,2025,8
+2025-08-24,aquecedor solar,20,2025,8
+2025-08-31,aquecedor solar,19,2025,8
+2025-09-07,aquecedor solar,20,2025,9
+2025-09-14,aquecedor solar,23,2025,9
+2025-09-21,aquecedor solar,20,2025,9
+2025-09-28,aquecedor solar,18,2025,9
+2025-10-05,aquecedor solar,17,2025,10
+2025-10-12,aquecedor solar,19,2025,10
+2025-10-19,aquecedor solar,21,2025,10
+2025-10-26,aquecedor solar,18,2025,10
+2025-11-02,aquecedor solar,15,2025,11
+2025-11-09,aquecedor solar,19,2025,11
+2025-11-16,aquecedor solar,21,2025,11
+2025-11-23,aquecedor solar,21,2025,11
+2025-11-30,aquecedor solar,20,2025,11
+2025-12-07,aquecedor solar,15,2025,12
+2025-12-14,aquecedor solar,16,2025,12
+2025-12-21,aquecedor solar,18,2025,12
+2025-12-28,aquecedor solar,16,2025,12
+2026-01-04,aquecedor solar,17,2026,1
+2026-01-11,aquecedor solar,18,2026,1
+2026-01-18,aquecedor solar,17,2026,1
+2026-01-25,aquecedor solar,14,2026,1
+2026-02-01,aquecedor solar,15,2026,2
+2026-02-08,aquecedor solar,14,2026,2
+2026-02-15,aquecedor solar,12,2026,2
+2026-02-22,aquecedor solar,15,2026,2
+2026-03-01,aquecedor solar,12,2026,3
+2026-03-08,aquecedor solar,15,2026,3
+2026-03-15,aquecedor solar,16,2026,3
+2026-03-22,aquecedor solar,16,2026,3
+2026-03-29,aquecedor solar,16,2026,3
+2026-04-05,aquecedor solar,17,2026,4
+2026-04-12,aquecedor solar,15,2026,4
+2026-04-19,aquecedor solar,17,2026,4
+2026-04-26,aquecedor solar,16,2026,4
+2026-05-03,aquecedor solar,17,2026,5
+2026-05-10,aquecedor solar,24,2026,5
+2026-05-17,aquecedor solar,19,2026,5
+2026-05-24,aquecedor solar,15,2026,5
+2026-05-31,aquecedor solar,22,2026,5
+2026-06-07,aquecedor solar,23,2026,6
+2021-06-06,chuveiro elétrico,47,2021,6
+2021-06-13,chuveiro elétrico,61,2021,6
+2021-06-20,chuveiro elétrico,56,2021,6
+2021-06-27,chuveiro elétrico,61,2021,6
+2021-07-04,chuveiro elétrico,54,2021,7
+2021-07-11,chuveiro elétrico,43,2021,7
+2021-07-18,chuveiro elétrico,42,2021,7
+2021-07-25,chuveiro elétrico,46,2021,7
+2021-08-01,chuveiro elétrico,46,2021,8
+2021-08-08,chuveiro elétrico,45,2021,8
+2021-08-15,chuveiro elétrico,43,2021,8
+2021-08-22,chuveiro elétrico,40,2021,8
+2021-08-29,chuveiro elétrico,72,2021,8
+2021-09-05,chuveiro elétrico,35,2021,9
+2021-09-12,chuveiro elétrico,33,2021,9
+2021-09-19,chuveiro elétrico,37,2021,9
+2021-09-26,chuveiro elétrico,36,2021,9
+2021-10-03,chuveiro elétrico,33,2021,10
+2021-10-10,chuveiro elétrico,37,2021,10
+2021-10-17,chuveiro elétrico,55,2021,10
+2021-10-24,chuveiro elétrico,28,2021,10
+2021-10-31,chuveiro elétrico,29,2021,10
+2021-11-07,chuveiro elétrico,32,2021,11
+2021-11-14,chuveiro elétrico,31,2021,11
+2021-11-21,chuveiro elétrico,36,2021,11
+2021-11-28,chuveiro elétrico,32,2021,11
+2021-12-05,chuveiro elétrico,28,2021,12
+2021-12-12,chuveiro elétrico,27,2021,12
+2021-12-19,chuveiro elétrico,18,2021,12
+2021-12-26,chuveiro elétrico,21,2021,12
+2022-01-02,chuveiro elétrico,30,2022,1
+2022-01-09,chuveiro elétrico,30,2022,1
+2022-01-16,chuveiro elétrico,26,2022,1
+2022-01-23,chuveiro elétrico,24,2022,1
+2022-01-30,chuveiro elétrico,29,2022,1
+2022-02-06,chuveiro elétrico,24,2022,2
+2022-02-13,chuveiro elétrico,26,2022,2
+2022-02-20,chuveiro elétrico,25,2022,2
+2022-02-27,chuveiro elétrico,29,2022,2
+2022-03-06,chuveiro elétrico,31,2022,3
+2022-03-13,chuveiro elétrico,32,2022,3
+2022-03-20,chuveiro elétrico,36,2022,3
+2022-03-27,chuveiro elétrico,47,2022,3
+2022-04-03,chuveiro elétrico,55,2022,4
+2022-04-10,chuveiro elétrico,35,2022,4
+2022-04-17,chuveiro elétrico,38,2022,4
+2022-04-24,chuveiro elétrico,38,2022,4
+2022-05-01,chuveiro elétrico,39,2022,5
+2022-05-08,chuveiro elétrico,42,2022,5
+2022-05-15,chuveiro elétrico,63,2022,5
+2022-05-22,chuveiro elétrico,60,2022,5
+2022-05-29,chuveiro elétrico,54,2022,5
+2022-06-05,chuveiro elétrico,50,2022,6
+2022-06-12,chuveiro elétrico,56,2022,6
+2022-06-19,chuveiro elétrico,54,2022,6
+2022-06-26,chuveiro elétrico,51,2022,6
+2022-07-03,chuveiro elétrico,45,2022,7
+2022-07-10,chuveiro elétrico,40,2022,7
+2022-07-17,chuveiro elétrico,43,2022,7
+2022-07-24,chuveiro elétrico,40,2022,7
+2022-07-31,chuveiro elétrico,43,2022,7
+2022-08-07,chuveiro elétrico,42,2022,8
+2022-08-14,chuveiro elétrico,43,2022,8
+2022-08-21,chuveiro elétrico,48,2022,8
+2022-08-28,chuveiro elétrico,48,2022,8
+2022-09-04,chuveiro elétrico,40,2022,9
+2022-09-11,chuveiro elétrico,45,2022,9
+2022-09-18,chuveiro elétrico,46,2022,9
+2022-09-25,chuveiro elétrico,42,2022,9
+2022-10-02,chuveiro elétrico,32,2022,10
+2022-10-09,chuveiro elétrico,32,2022,10
+2022-10-16,chuveiro elétrico,35,2022,10
+2022-10-23,chuveiro elétrico,35,2022,10
+2022-10-30,chuveiro elétrico,36,2022,10
+2022-11-06,chuveiro elétrico,37,2022,11
+2022-11-13,chuveiro elétrico,33,2022,11
+2022-11-20,chuveiro elétrico,32,2022,11
+2022-11-27,chuveiro elétrico,32,2022,11
+2022-12-04,chuveiro elétrico,31,2022,12
+2022-12-11,chuveiro elétrico,29,2022,12
+2022-12-18,chuveiro elétrico,30,2022,12
+2022-12-25,chuveiro elétrico,26,2022,12
+2023-01-01,chuveiro elétrico,28,2023,1
+2023-01-08,chuveiro elétrico,30,2023,1
+2023-01-15,chuveiro elétrico,26,2023,1
+2023-01-22,chuveiro elétrico,25,2023,1
+2023-01-29,chuveiro elétrico,26,2023,1
+2023-02-05,chuveiro elétrico,25,2023,2
+2023-02-12,chuveiro elétrico,29,2023,2
+2023-02-19,chuveiro elétrico,32,2023,2
+2023-02-26,chuveiro elétrico,30,2023,2
+2023-03-05,chuveiro elétrico,32,2023,3
+2023-03-12,chuveiro elétrico,36,2023,3
+2023-03-19,chuveiro elétrico,42,2023,3
+2023-03-26,chuveiro elétrico,38,2023,3
+2023-04-02,chuveiro elétrico,39,2023,4
+2023-04-09,chuveiro elétrico,39,2023,4
+2023-04-16,chuveiro elétrico,40,2023,4
+2023-04-23,chuveiro elétrico,38,2023,4
+2023-04-30,chuveiro elétrico,38,2023,4
+2023-05-07,chuveiro elétrico,41,2023,5
+2023-05-14,chuveiro elétrico,50,2023,5
+2023-05-21,chuveiro elétrico,50,2023,5
+2023-05-28,chuveiro elétrico,47,2023,5
+2023-06-04,chuveiro elétrico,49,2023,6
+2023-06-11,chuveiro elétrico,57,2023,6
+2023-06-18,chuveiro elétrico,58,2023,6
+2023-06-25,chuveiro elétrico,47,2023,6
+2023-07-02,chuveiro elétrico,51,2023,7
+2023-07-09,chuveiro elétrico,47,2023,7
+2023-07-16,chuveiro elétrico,43,2023,7
+2023-07-23,chuveiro elétrico,37,2023,7
+2023-07-30,chuveiro elétrico,40,2023,7
+2023-08-06,chuveiro elétrico,41,2023,8
+2023-08-13,chuveiro elétrico,44,2023,8
+2023-08-20,chuveiro elétrico,38,2023,8
+2023-08-27,chuveiro elétrico,41,2023,8
+2023-09-03,chuveiro elétrico,37,2023,9
+2023-09-10,chuveiro elétrico,41,2023,9
+2023-09-17,chuveiro elétrico,38,2023,9
+2023-09-24,chuveiro elétrico,38,2023,9
+2023-10-01,chuveiro elétrico,34,2023,10
+2023-10-08,chuveiro elétrico,30,2023,10
+2023-10-15,chuveiro elétrico,36,2023,10
+2023-10-22,chuveiro elétrico,31,2023,10
+2023-10-29,chuveiro elétrico,33,2023,10
+2023-11-05,chuveiro elétrico,35,2023,11
+2023-11-12,chuveiro elétrico,35,2023,11
+2023-11-19,chuveiro elétrico,33,2023,11
+2023-11-26,chuveiro elétrico,32,2023,11
+2023-12-03,chuveiro elétrico,28,2023,12
+2023-12-10,chuveiro elétrico,33,2023,12
+2023-12-17,chuveiro elétrico,25,2023,12
+2023-12-24,chuveiro elétrico,26,2023,12
+2023-12-31,chuveiro elétrico,31,2023,12
+2024-01-07,chuveiro elétrico,29,2024,1
+2024-01-14,chuveiro elétrico,28,2024,1
+2024-01-21,chuveiro elétrico,29,2024,1
+2024-01-28,chuveiro elétrico,27,2024,1
+2024-02-04,chuveiro elétrico,25,2024,2
+2024-02-11,chuveiro elétrico,30,2024,2
+2024-02-18,chuveiro elétrico,30,2024,2
+2024-02-25,chuveiro elétrico,29,2024,2
+2024-03-03,chuveiro elétrico,30,2024,3
+2024-03-10,chuveiro elétrico,30,2024,3
+2024-03-17,chuveiro elétrico,33,2024,3
+2024-03-24,chuveiro elétrico,34,2024,3
+2024-03-31,chuveiro elétrico,36,2024,3
+2024-04-07,chuveiro elétrico,36,2024,4
+2024-04-14,chuveiro elétrico,32,2024,4
+2024-04-21,chuveiro elétrico,38,2024,4
+2024-04-28,chuveiro elétrico,32,2024,4
+2024-05-05,chuveiro elétrico,37,2024,5
+2024-05-12,chuveiro elétrico,37,2024,5
+2024-05-19,chuveiro elétrico,41,2024,5
+2024-05-26,chuveiro elétrico,62,2024,5
+2024-06-02,chuveiro elétrico,56,2024,6
+2024-06-09,chuveiro elétrico,51,2024,6
+2024-06-16,chuveiro elétrico,46,2024,6
+2024-06-23,chuveiro elétrico,44,2024,6
+2024-06-30,chuveiro elétrico,50,2024,6
+2024-07-07,chuveiro elétrico,56,2024,7
+2024-07-14,chuveiro elétrico,56,2024,7
+2024-07-21,chuveiro elétrico,53,2024,7
+2024-07-28,chuveiro elétrico,45,2024,7
+2024-08-04,chuveiro elétrico,44,2024,8
+2024-08-11,chuveiro elétrico,54,2024,8
+2024-08-18,chuveiro elétrico,40,2024,8
+2024-08-25,chuveiro elétrico,49,2024,8
+2024-09-01,chuveiro elétrico,45,2024,9
+2024-09-08,chuveiro elétrico,36,2024,9
+2024-09-15,chuveiro elétrico,39,2024,9
+2024-09-22,chuveiro elétrico,40,2024,9
+2024-09-29,chuveiro elétrico,36,2024,9
+2024-10-06,chuveiro elétrico,35,2024,10
+2024-10-13,chuveiro elétrico,33,2024,10
+2024-10-20,chuveiro elétrico,36,2024,10
+2024-10-27,chuveiro elétrico,34,2024,10
+2024-11-03,chuveiro elétrico,37,2024,11
+2024-11-10,chuveiro elétrico,38,2024,11
+2024-11-17,chuveiro elétrico,35,2024,11
+2024-11-24,chuveiro elétrico,47,2024,11
+2024-12-01,chuveiro elétrico,36,2024,12
+2024-12-08,chuveiro elétrico,31,2024,12
+2024-12-15,chuveiro elétrico,25,2024,12
+2024-12-22,chuveiro elétrico,31,2024,12
+2024-12-29,chuveiro elétrico,27,2024,12
+2025-01-05,chuveiro elétrico,31,2025,1
+2025-01-12,chuveiro elétrico,33,2025,1
+2025-01-19,chuveiro elétrico,30,2025,1
+2025-01-26,chuveiro elétrico,33,2025,1
+2025-02-02,chuveiro elétrico,32,2025,2
+2025-02-09,chuveiro elétrico,29,2025,2
+2025-02-16,chuveiro elétrico,33,2025,2
+2025-02-23,chuveiro elétrico,32,2025,2
+2025-03-02,chuveiro elétrico,32,2025,3
+2025-03-09,chuveiro elétrico,37,2025,3
+2025-03-16,chuveiro elétrico,38,2025,3
+2025-03-23,chuveiro elétrico,35,2025,3
+2025-03-30,chuveiro elétrico,35,2025,3
+2025-04-06,chuveiro elétrico,46,2025,4
+2025-04-13,chuveiro elétrico,39,2025,4
+2025-04-20,chuveiro elétrico,40,2025,4
+2025-04-27,chuveiro elétrico,43,2025,4
+2025-05-04,chuveiro elétrico,49,2025,5
+2025-05-11,chuveiro elétrico,52,2025,5
+2025-05-18,chuveiro elétrico,54,2025,5
+2025-05-25,chuveiro elétrico,59,2025,5
+2025-06-01,chuveiro elétrico,56,2025,6
+2025-06-08,chuveiro elétrico,60,2025,6
+2025-06-15,chuveiro elétrico,64,2025,6
+2025-06-22,chuveiro elétrico,55,2025,6
+2025-06-29,chuveiro elétrico,72,2025,6
+2025-07-06,chuveiro elétrico,72,2025,7
+2025-07-13,chuveiro elétrico,75,2025,7
+2025-07-20,chuveiro elétrico,60,2025,7
+2025-07-27,chuveiro elétrico,67,2025,7
+2025-08-03,chuveiro elétrico,60,2025,8
+2025-08-10,chuveiro elétrico,66,2025,8
+2025-08-17,chuveiro elétrico,55,2025,8
+2025-08-24,chuveiro elétrico,54,2025,8
+2025-08-31,chuveiro elétrico,51,2025,8
+2025-09-07,chuveiro elétrico,44,2025,9
+2025-09-14,chuveiro elétrico,45,2025,9
+2025-09-21,chuveiro elétrico,45,2025,9
+2025-09-28,chuveiro elétrico,44,2025,9
+2025-10-05,chuveiro elétrico,43,2025,10
+2025-10-12,chuveiro elétrico,43,2025,10
+2025-10-19,chuveiro elétrico,47,2025,10
+2025-10-26,chuveiro elétrico,43,2025,10
+2025-11-02,chuveiro elétrico,37,2025,11
+2025-11-09,chuveiro elétrico,43,2025,11
+2025-11-16,chuveiro elétrico,41,2025,11
+2025-11-23,chuveiro elétrico,46,2025,11
+2025-11-30,chuveiro elétrico,53,2025,11
+2025-12-07,chuveiro elétrico,39,2025,12
+2025-12-14,chuveiro elétrico,32,2025,12
+2025-12-21,chuveiro elétrico,40,2025,12
+2025-12-28,chuveiro elétrico,37,2025,12
+2026-01-04,chuveiro elétrico,49,2026,1
+2026-01-11,chuveiro elétrico,48,2026,1
+2026-01-18,chuveiro elétrico,56,2026,1
+2026-01-25,chuveiro elétrico,44,2026,1
+2026-02-01,chuveiro elétrico,45,2026,2
+2026-02-08,chuveiro elétrico,49,2026,2
+2026-02-15,chuveiro elétrico,100,2026,2
+2026-02-22,chuveiro elétrico,51,2026,2
+2026-03-01,chuveiro elétrico,53,2026,3
+2026-03-08,chuveiro elétrico,48,2026,3
+2026-03-15,chuveiro elétrico,55,2026,3
+2026-03-22,chuveiro elétrico,44,2026,3
+2026-03-29,chuveiro elétrico,49,2026,3
+2026-04-05,chuveiro elétrico,53,2026,4
+2026-04-12,chuveiro elétrico,56,2026,4
+2026-04-19,chuveiro elétrico,56,2026,4
+2026-04-26,chuveiro elétrico,55,2026,4
+2026-05-03,chuveiro elétrico,62,2026,5
+2026-05-10,chuveiro elétrico,90,2026,5
+2026-05-17,chuveiro elétrico,81,2026,5
+2026-05-24,chuveiro elétrico,83,2026,5
+2026-05-31,chuveiro elétrico,87,2026,5
+2026-06-07,chuveiro elétrico,84,2026,6
+2021-06-06,bomba de calor,4,2021,6
+2021-06-13,bomba de calor,3,2021,6
+2021-06-20,bomba de calor,3,2021,6
+2021-06-27,bomba de calor,4,2021,6
+2021-07-04,bomba de calor,3,2021,7
+2021-07-11,bomba de calor,2,2021,7
+2021-07-18,bomba de calor,3,2021,7
+2021-07-25,bomba de calor,2,2021,7
+2021-08-01,bomba de calor,3,2021,8
+2021-08-08,bomba de calor,3,2021,8
+2021-08-15,bomba de calor,3,2021,8
+2021-08-22,bomba de calor,4,2021,8
+2021-08-29,bomba de calor,3,2021,8
+2021-09-05,bomba de calor,2,2021,9
+2021-09-12,bomba de calor,3,2021,9
+2021-09-19,bomba de calor,3,2021,9
+2021-09-26,bomba de calor,3,2021,9
+2021-10-03,bomba de calor,4,2021,10
+2021-10-10,bomba de calor,0,2021,10
+2021-10-17,bomba de calor,3,2021,10
+2021-10-24,bomba de calor,4,2021,10
+2021-10-31,bomba de calor,3,2021,10
+2021-11-07,bomba de calor,4,2021,11
+2021-11-14,bomba de calor,4,2021,11
+2021-11-21,bomba de calor,4,2021,11
+2021-11-28,bomba de calor,3,2021,11
+2021-12-05,bomba de calor,2,2021,12
+2021-12-12,bomba de calor,4,2021,12
+2021-12-19,bomba de calor,0,2021,12
+2021-12-26,bomba de calor,0,2021,12
+2022-01-02,bomba de calor,0,2022,1
+2022-01-09,bomba de calor,3,2022,1
+2022-01-16,bomba de calor,2,2022,1
+2022-01-23,bomba de calor,3,2022,1
+2022-01-30,bomba de calor,4,2022,1
+2022-02-06,bomba de calor,3,2022,2
+2022-02-13,bomba de calor,3,2022,2
+2022-02-20,bomba de calor,3,2022,2
+2022-02-27,bomba de calor,3,2022,2
+2022-03-06,bomba de calor,4,2022,3
+2022-03-13,bomba de calor,4,2022,3
+2022-03-20,bomba de calor,4,2022,3
+2022-03-27,bomba de calor,5,2022,3
+2022-04-03,bomba de calor,3,2022,4
+2022-04-10,bomba de calor,3,2022,4
+2022-04-17,bomba de calor,4,2022,4
+2022-04-24,bomba de calor,4,2022,4
+2022-05-01,bomba de calor,4,2022,5
+2022-05-08,bomba de calor,4,2022,5
+2022-05-15,bomba de calor,4,2022,5
+2022-05-22,bomba de calor,4,2022,5
+2022-05-29,bomba de calor,3,2022,5
+2022-06-05,bomba de calor,3,2022,6
+2022-06-12,bomba de calor,2,2022,6
+2022-06-19,bomba de calor,3,2022,6
+2022-06-26,bomba de calor,2,2022,6
+2022-07-03,bomba de calor,4,2022,7
+2022-07-10,bomba de calor,3,2022,7
+2022-07-17,bomba de calor,3,2022,7
+2022-07-24,bomba de calor,2,2022,7
+2022-07-31,bomba de calor,2,2022,7
+2022-08-07,bomba de calor,3,2022,8
+2022-08-14,bomba de calor,4,2022,8
+2022-08-21,bomba de calor,3,2022,8
+2022-08-28,bomba de calor,4,2022,8
+2022-09-04,bomba de calor,2,2022,9
+2022-09-11,bomba de calor,3,2022,9
+2022-09-18,bomba de calor,4,2022,9
+2022-09-25,bomba de calor,4,2022,9
+2022-10-02,bomba de calor,3,2022,10
+2022-10-09,bomba de calor,3,2022,10
+2022-10-16,bomba de calor,3,2022,10
+2022-10-23,bomba de calor,3,2022,10
+2022-10-30,bomba de calor,3,2022,10
+2022-11-06,bomba de calor,4,2022,11
+2022-11-13,bomba de calor,8,2022,11
+2022-11-20,bomba de calor,3,2022,11
+2022-11-27,bomba de calor,4,2022,11
+2022-12-04,bomba de calor,4,2022,12
+2022-12-11,bomba de calor,3,2022,12
+2022-12-18,bomba de calor,3,2022,12
+2022-12-25,bomba de calor,3,2022,12
+2023-01-01,bomba de calor,3,2023,1
+2023-01-08,bomba de calor,3,2023,1
+2023-01-15,bomba de calor,3,2023,1
+2023-01-22,bomba de calor,4,2023,1
+2023-01-29,bomba de calor,3,2023,1
+2023-02-05,bomba de calor,3,2023,2
+2023-02-12,bomba de calor,3,2023,2
+2023-02-19,bomba de calor,3,2023,2
+2023-02-26,bomba de calor,4,2023,2
+2023-03-05,bomba de calor,3,2023,3
+2023-03-12,bomba de calor,4,2023,3
+2023-03-19,bomba de calor,4,2023,3
+2023-03-26,bomba de calor,5,2023,3
+2023-04-02,bomba de calor,5,2023,4
+2023-04-09,bomba de calor,4,2023,4
+2023-04-16,bomba de calor,4,2023,4
+2023-04-23,bomba de calor,4,2023,4
+2023-04-30,bomba de calor,6,2023,4
+2023-05-07,bomba de calor,3,2023,5
+2023-05-14,bomba de calor,5,2023,5
+2023-05-21,bomba de calor,5,2023,5
+2023-05-28,bomba de calor,5,2023,5
+2023-06-04,bomba de calor,4,2023,6
+2023-06-11,bomba de calor,6,2023,6
+2023-06-18,bomba de calor,8,2023,6
+2023-06-25,bomba de calor,4,2023,6
+2023-07-02,bomba de calor,5,2023,7
+2023-07-09,bomba de calor,4,2023,7
+2023-07-16,bomba de calor,4,2023,7
+2023-07-23,bomba de calor,5,2023,7
+2023-07-30,bomba de calor,6,2023,7
+2023-08-06,bomba de calor,4,2023,8
+2023-08-13,bomba de calor,4,2023,8
+2023-08-20,bomba de calor,4,2023,8
+2023-08-27,bomba de calor,5,2023,8
+2023-09-03,bomba de calor,3,2023,9
+2023-09-10,bomba de calor,4,2023,9
+2023-09-17,bomba de calor,6,2023,9
+2023-09-24,bomba de calor,6,2023,9
+2023-10-01,bomba de calor,6,2023,10
+2023-10-08,bomba de calor,4,2023,10
+2023-10-15,bomba de calor,6,2023,10
+2023-10-22,bomba de calor,3,2023,10
+2023-10-29,bomba de calor,5,2023,10
+2023-11-05,bomba de calor,6,2023,11
+2023-11-12,bomba de calor,8,2023,11
+2023-11-19,bomba de calor,6,2023,11
+2023-11-26,bomba de calor,5,2023,11
+2023-12-03,bomba de calor,3,2023,12
+2023-12-10,bomba de calor,4,2023,12
+2023-12-17,bomba de calor,2,2023,12
+2023-12-24,bomba de calor,0,2023,12
+2023-12-31,bomba de calor,4,2023,12
+2024-01-07,bomba de calor,3,2024,1
+2024-01-14,bomba de calor,3,2024,1
+2024-01-21,bomba de calor,4,2024,1
+2024-01-28,bomba de calor,5,2024,1
+2024-02-04,bomba de calor,5,2024,2
+2024-02-11,bomba de calor,4,2024,2
+2024-02-18,bomba de calor,3,2024,2
+2024-02-25,bomba de calor,6,2024,2
+2024-03-03,bomba de calor,4,2024,3
+2024-03-10,bomba de calor,5,2024,3
+2024-03-17,bomba de calor,5,2024,3
+2024-03-24,bomba de calor,4,2024,3
+2024-03-31,bomba de calor,4,2024,3
+2024-04-07,bomba de calor,5,2024,4
+2024-04-14,bomba de calor,7,2024,4
+2024-04-21,bomba de calor,6,2024,4
+2024-04-28,bomba de calor,4,2024,4
+2024-05-05,bomba de calor,6,2024,5
+2024-05-12,bomba de calor,6,2024,5
+2024-05-19,bomba de calor,7,2024,5
+2024-05-26,bomba de calor,5,2024,5
+2024-06-02,bomba de calor,8,2024,6
+2024-06-09,bomba de calor,6,2024,6
+2024-06-16,bomba de calor,6,2024,6
+2024-06-23,bomba de calor,8,2024,6
+2024-06-30,bomba de calor,8,2024,6
+2024-07-07,bomba de calor,7,2024,7
+2024-07-14,bomba de calor,6,2024,7
+2024-07-21,bomba de calor,4,2024,7
+2024-07-28,bomba de calor,5,2024,7
+2024-08-04,bomba de calor,8,2024,8
+2024-08-11,bomba de calor,6,2024,8
+2024-08-18,bomba de calor,7,2024,8
+2024-08-25,bomba de calor,6,2024,8
+2024-09-01,bomba de calor,7,2024,9
+2024-09-08,bomba de calor,9,2024,9
+2024-09-15,bomba de calor,6,2024,9
+2024-09-22,bomba de calor,5,2024,9
+2024-09-29,bomba de calor,8,2024,9
+2024-10-06,bomba de calor,5,2024,10
+2024-10-13,bomba de calor,6,2024,10
+2024-10-20,bomba de calor,8,2024,10
+2024-10-27,bomba de calor,7,2024,10
+2024-11-03,bomba de calor,8,2024,11
+2024-11-10,bomba de calor,7,2024,11
+2024-11-17,bomba de calor,7,2024,11
+2024-11-24,bomba de calor,7,2024,11
+2024-12-01,bomba de calor,7,2024,12
+2024-12-08,bomba de calor,6,2024,12
+2024-12-15,bomba de calor,7,2024,12
+2024-12-22,bomba de calor,6,2024,12
+2024-12-29,bomba de calor,5,2024,12
+2025-01-05,bomba de calor,7,2025,1
+2025-01-12,bomba de calor,7,2025,1
+2025-01-19,bomba de calor,7,2025,1
+2025-01-26,bomba de calor,5,2025,1
+2025-02-02,bomba de calor,6,2025,2
+2025-02-09,bomba de calor,5,2025,2
+2025-02-16,bomba de calor,8,2025,2
+2025-02-23,bomba de calor,6,2025,2
+2025-03-02,bomba de calor,6,2025,3
+2025-03-09,bomba de calor,5,2025,3
+2025-03-16,bomba de calor,8,2025,3
+2025-03-23,bomba de calor,6,2025,3
+2025-03-30,bomba de calor,6,2025,3
+2025-04-06,bomba de calor,7,2025,4
+2025-04-13,bomba de calor,8,2025,4
+2025-04-20,bomba de calor,6,2025,4
+2025-04-27,bomba de calor,7,2025,4
+2025-05-04,bomba de calor,8,2025,5
+2025-05-11,bomba de calor,8,2025,5
+2025-05-18,bomba de calor,7,2025,5
+2025-05-25,bomba de calor,10,2025,5
+2025-06-01,bomba de calor,8,2025,6
+2025-06-08,bomba de calor,9,2025,6
+2025-06-15,bomba de calor,8,2025,6
+2025-06-22,bomba de calor,8,2025,6
+2025-06-29,bomba de calor,8,2025,6
+2025-07-06,bomba de calor,10,2025,7
+2025-07-13,bomba de calor,7,2025,7
+2025-07-20,bomba de calor,14,2025,7
+2025-07-27,bomba de calor,10,2025,7
+2025-08-03,bomba de calor,9,2025,8
+2025-08-10,bomba de calor,8,2025,8
+2025-08-17,bomba de calor,7,2025,8
+2025-08-24,bomba de calor,9,2025,8
+2025-08-31,bomba de calor,9,2025,8
+2025-09-07,bomba de calor,12,2025,9
+2025-09-14,bomba de calor,10,2025,9
+2025-09-21,bomba de calor,7,2025,9
+2025-09-28,bomba de calor,8,2025,9
+2025-10-05,bomba de calor,8,2025,10
+2025-10-12,bomba de calor,10,2025,10
+2025-10-19,bomba de calor,7,2025,10
+2025-10-26,bomba de calor,10,2025,10
+2025-11-02,bomba de calor,10,2025,11
+2025-11-09,bomba de calor,13,2025,11
+2025-11-16,bomba de calor,13,2025,11
+2025-11-23,bomba de calor,10,2025,11
+2025-11-30,bomba de calor,11,2025,11
+2025-12-07,bomba de calor,12,2025,12
+2025-12-14,bomba de calor,11,2025,12
+2025-12-21,bomba de calor,8,2025,12
+2025-12-28,bomba de calor,5,2025,12
+2026-01-04,bomba de calor,7,2026,1
+2026-01-11,bomba de calor,8,2026,1
+2026-01-18,bomba de calor,8,2026,1
+2026-01-25,bomba de calor,9,2026,1
+2026-02-01,bomba de calor,6,2026,2
+2026-02-08,bomba de calor,7,2026,2
+2026-02-15,bomba de calor,9,2026,2
+2026-02-22,bomba de calor,9,2026,2
+2026-03-01,bomba de calor,10,2026,3
+2026-03-08,bomba de calor,7,2026,3
+2026-03-15,bomba de calor,11,2026,3
+2026-03-22,bomba de calor,9,2026,3
+2026-03-29,bomba de calor,11,2026,3
+2026-04-05,bomba de calor,8,2026,4
+2026-04-12,bomba de calor,10,2026,4
+2026-04-19,bomba de calor,8,2026,4
+2026-04-26,bomba de calor,7,2026,4
+2026-05-03,bomba de calor,9,2026,5
+2026-05-10,bomba de calor,9,2026,5
+2026-05-17,bomba de calor,12,2026,5
+2026-05-24,bomba de calor,10,2026,5
+2026-05-31,bomba de calor,10,2026,5
+2026-06-07,bomba de calor,9,2026,6

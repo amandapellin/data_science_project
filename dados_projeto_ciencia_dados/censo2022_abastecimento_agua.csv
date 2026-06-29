@@ -1,0 +1,487 @@
+﻿NC,NN,MC,MN,qtd_domicilios,cod_uf,uf,D2C,ano,D3C,variavel,cod_categoria,categoria
+3,Unidade da Federação,1020,Unidades,555099,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,256189,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,43343,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,20111,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,22297,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,693,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,8,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,18,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,107,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,109,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,255567,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,95322,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,140071,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,16856,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,77,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,57,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,1544,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1640,11,Rondônia,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,261001,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,137184,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,18891,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,9566,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,8296,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,465,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,242,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,16,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,199,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,107,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,104926,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,31519,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,41466,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,15336,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,913,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,399,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,13842,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1451,12,Acre,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1079880,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,713550,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,87408,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,80536,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3453,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,606,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,63,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,674,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,1158,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,918,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,278922,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,157160,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,25199,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,6325,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,679,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,13242,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,67095,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,9222,13,Amazonas,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,177418,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,144273,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,4859,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,3080,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,819,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,837,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,4,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,2,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,36,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,81,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,28286,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,9611,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,13411,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,606,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,118,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,44,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,3789,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,707,14,Roraima,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,2444319,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,1195348,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,169888,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,134384,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,28281,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,1539,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,968,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,67,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,2404,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2245,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,1079083,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,636116,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,280878,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,20647,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,5945,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,1104,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,108232,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,26161,15,Pará,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,201021,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,87208,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,13022,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,9063,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3249,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,157,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,66,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,17,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,282,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,188,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,100791,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,52904,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,37440,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,523,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,561,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,215,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,6906,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2242,16,Amapá,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,513796,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,419993,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,14021,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,8106,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,4650,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,421,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,154,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,84,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,428,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,178,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,79782,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,35995,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,23742,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,10216,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,393,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,610,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,7561,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1265,17,Tocantins,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,2091583,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,1383607,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,203527,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,167034,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,25599,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,790,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,5715,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,278,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,1875,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2236,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,504449,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,294710,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,152060,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,8895,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,10940,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,2493,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,17991,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,17360,21,Maranhão,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1071549,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,825847,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,59613,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,46944,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3727,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,390,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,3414,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,2995,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,717,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1426,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,186089,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,107937,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,17472,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,1800,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,29907,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,14224,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,5061,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,9688,22,Piauí,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,3020374,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,2392416,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,142507,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,91891,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,22315,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,2714,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,3660,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,5934,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,11562,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,4431,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,485451,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,213966,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,115204,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,12351,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,43926,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,31157,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,45244,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,23603,23,Ceará,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1141873,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,969873,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,35170,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,23715,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,2431,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,149,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,4646,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,889,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,1417,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1923,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,136830,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,60081,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,12900,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,626,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,34760,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,7126,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,10683,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,10654,24,Rio Grande do Norte,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1372108,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,1022066,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,57871,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,29115,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3766,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,679,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,13092,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,6311,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,2375,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2533,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,292171,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,91769,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,29540,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,2719,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,75406,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,54004,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,23816,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,14917,25,Paraíba,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,3184223,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,2270335,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,185257,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,108332,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,21777,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,3315,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,35300,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,4864,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,4733,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,6936,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,728631,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,240527,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,113238,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,19304,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,208986,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,67540,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,34629,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,44407,26,Pernambuco,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1041552,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,709672,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,91963,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,71182,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,10991,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,1173,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,3021,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,1226,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,2287,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2083,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,239917,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,92831,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,51709,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,9709,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,37326,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,28444,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,6301,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,13597,27,Alagoas,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,782919,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,668606,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,19916,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,11254,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3618,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,661,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1175,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,1122,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,310,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1776,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,94397,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,38317,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,17123,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,3363,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,12743,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,8205,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,3459,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,11187,28,Sergipe,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,5088635,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,4229907,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,192980,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,121661,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,13423,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,14265,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,7008,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,17533,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,12269,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,6821,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,665748,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,219375,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,64465,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,86201,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,94051,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,98911,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,65102,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,37643,29,Bahia,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,7533434,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,6621359,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,191926,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,114008,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,18866,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,43582,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,2104,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,875,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,7063,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,5428,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,720149,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,252524,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,110351,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,293200,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,10998,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,4589,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,33135,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,15352,31,Minas Gerais,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1428739,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,1204535,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,32511,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,23091,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3132,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,5352,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,197,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,38,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,231,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,470,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,191693,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,88976,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,35944,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,62912,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,901,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,58,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,1338,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1564,32,Espírito Santo,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,6152051,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,5211812,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,238988,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,167126,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,22053,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,25886,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,9600,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,652,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,2061,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,11610,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,701251,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,463094,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,77398,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,101116,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,22400,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,2506,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,5112,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,29625,33,Rio de Janeiro,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,16224248,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,15533337,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,143699,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,92237,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,15504,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,14230,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1343,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,637,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,2378,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,17370,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,547212,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,258851,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,127402,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,112398,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,11649,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,861,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,7893,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,28158,35,São Paulo,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,4209432,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,3739267,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,132730,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,105136,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,10045,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,14207,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,90,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,268,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,223,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2761,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,337435,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,137116,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,55284,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,136606,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,616,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,208,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,1949,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,5656,41,Paraná,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,2806100,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,2367142,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,119226,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,72861,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,16979,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,26824,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,71,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,325,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,1383,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,783,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,319732,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,128905,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,61974,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,122509,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,314,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,324,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,3107,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2599,42,Santa Catarina,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,4256082,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,3687424,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,176753,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,142640,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,12881,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,16854,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,309,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,531,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,251,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,3287,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,391905,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,248335,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,65372,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,63490,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1926,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,1278,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,1690,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,9814,43,Rio Grande do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,979669,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,854236,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,33087,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,28993,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,3034,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,517,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,25,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,29,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,122,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,367,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,92346,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,72882,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,8411,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,5607,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,629,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,278,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,1788,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2751,50,Mato Grosso do Sul,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,1278142,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,1031990,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,61866,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,43726,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,11784,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,3062,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1920,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,46,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,840,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,488,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,184286,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,118238,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,39149,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,18063,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1267,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,148,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,5131,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,2290,51,Mato Grosso,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,2572930,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,2175256,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,94945,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,54291,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,34222,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,4253,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,116,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,96,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,972,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,995,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,302729,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,163404,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,95794,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,30289,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,1137,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,319,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,7847,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,3939,52,Goiás,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
+3,Unidade da Federação,1020,Unidades,988191,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72129,Total
+3,Unidade da Federação,1020,Unidades,922653,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72144,Possui ligação à rede geral e a utiliza como forma principal
+3,Unidade da Federação,1020,Unidades,7172,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72145,"Possui ligação à rede geral, mas utiliza principalmente outra forma"
+3,Unidade da Federação,1020,Unidades,4937,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72146,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço profundo ou artesiano"
+3,Unidade da Federação,1020,Unidades,674,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72147,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,603,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72148,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,91,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72149,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Carro-pipa"
+3,Unidade da Federação,1020,Unidades,30,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72150,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Água da chuva armazenada"
+3,Unidade da Federação,1020,Unidades,22,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72151,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,815,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72152,"Possui ligação à rede geral, mas utiliza principalmente outra forma - Outra"
+3,Unidade da Federação,1020,Unidades,58366,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72153,Não possui ligação com a rede geral
+3,Unidade da Federação,1020,Unidades,40623,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72154,Não possui ligação com a rede geral - Poço profundo ou artesiano
+3,Unidade da Federação,1020,Unidades,10201,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72155,"Não possui ligação com a rede geral - Poço raso, freático ou cacimba"
+3,Unidade da Federação,1020,Unidades,4465,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72156,"Não possui ligação com a rede geral - Fonte, nascente ou mina"
+3,Unidade da Federação,1020,Unidades,575,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72157,Não possui ligação com a rede geral - Carro-pipa
+3,Unidade da Federação,1020,Unidades,183,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72158,Não possui ligação com a rede geral - Água da chuva armazenada
+3,Unidade da Federação,1020,Unidades,540,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72159,"Não possui ligação com a rede geral - Rios, açudes, córregos, lagos e igarapés"
+3,Unidade da Federação,1020,Unidades,1779,53,Distrito Federal,2022,2022,381,Domicílios particulares permanentes ocupados,72160,Não possui ligação com a rede geral - Outra
